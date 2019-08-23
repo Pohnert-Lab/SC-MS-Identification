@@ -1,276 +1,276 @@
-"","real.identity","ID","sample.eu","sample.eu.val","sample.ieu","sample.ieu.val","sample.cos","sample.cos.val","bt.genus.eu.score","bt.genus.ieu.score","bt.genus.cos.score","reference","genus.cos","hits.cos","genus.eu","hits.eu","genus.ieu","hits.ieu"
-"1","Ceratium_sp.","ID00232","ID00053",0.164058056138271,"ID00238",0.465937385862598,"ID00237",0.812234573887597,0.462,0.722,0.754,"Ceratium","Ceratium",TRUE,"Coscinodiscus ",FALSE,"Ceratium",TRUE
-"2","Ceratium_sp.","ID00233","ID00234",0.221104784274785,"ID00234",0.711089465771374,"ID00234",0.975346064037249,0.872,0.95,0.686,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"3","Ceratium_sp.","ID00234","ID00236",0.273810825968906,"ID00236",0.80796912751031,"ID00236",0.983116021052776,0.992,0.928,0.7,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"4","Ceratium_sp.","ID00235","ID00233",0.130951698178846,"ID00238",0.250806503467998,"ID00232",0.50939880629463,0.906,0.844,0.87,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"5","Ceratium_sp.","ID00236","ID00234",0.273810825968906,"ID00300",0.832476402424987,"ID00234",0.983116021052776,0.738,0.728,0.59,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Guinardia ",FALSE
-"6","Ceratium_sp.","ID00237","ID00242",0.1747575324506,"ID00300",0.710383739812373,"ID00300",0.968595408507478,0.548,0.516,0.588,"Ceratium","Guinardia ",FALSE,"Ceratium",TRUE,"Guinardia ",FALSE
-"7","Ceratium_sp.","ID00238","ID00242",0.238158973438764,"ID00234",0.605009339080856,"ID00233",0.910895084554024,1,0.958,0.92,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"8","Ceratium_sp.","ID00239","ID00658",0.117328605611906,"ID00055",0.185577693993764,"ID00240",0.407663040834795,0.776,0.518,0.71,"Ceratium","Ceratium",TRUE,"Ditylum ",FALSE,"Coscinodiscus ",FALSE
-"9","Ceratium_sp.","ID00240","ID00242",0.243688622982556,"ID00242",0.619823624192861,"ID00242",0.900910594495698,0.694,0.972,0.986,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"10","Ceratium_sp.","ID00241","ID00238",0.141041370954015,"ID00240",0.440980180827577,"ID00242",0.876475971817944,0.868,0.932,0.696,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"11","Ceratium_sp.","ID00242","ID00240",0.243688622982556,"ID00268",0.626317355423668,"ID00268",0.93424038024061,0.972,0.522,0.65,"Ceratium","Ditylum ",FALSE,"Ceratium",TRUE,"Ditylum ",FALSE
-"12","Ceratium_sp.","ID00582","ID00588",0.295660830287773,"ID00588",0.498636740489931,"ID00591",0.824098965597236,0.352,0.552,0.794,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"13","Ceratium_sp.","ID00583","ID00585",0.33766083109371,"ID00585",0.536101672270554,"ID00590",0.803474600739331,0.776,0.846,0.774,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"14","Ceratium_sp.","ID00584","ID00590",0.285053304687855,"ID00590",0.514744227984807,"ID00595",0.894911957490339,0.54,0.562,0.504,"Ceratium","Coscinodiscus ",FALSE,"Ceratium",TRUE,"Ceratium",TRUE
-"15","Ceratium_sp.","ID00585","ID00583",0.33766083109371,"ID00591",0.600411645928985,"ID00593",0.880548592136356,0.96,1,0.87,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"16","Ceratium_sp.","ID00586","ID00587",0.616219238281363,"ID00587",0.638125597333443,"ID00587",0.896838185155877,1,1,1,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"17","Ceratium_sp.","ID00587","ID00586",0.616219238281363,"ID00592",0.704555757720294,"ID00586",0.896838185155877,1,1,1,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"18","Ceratium_sp.","ID00588","ID00589",0.30570508309294,"ID00594",0.5378244723854,"ID00591",0.879032808574113,0.728,0.924,0.838,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"19","Ceratium_sp.","ID00589","ID00594",0.360731429114811,"ID00540",0.52222578414486,"ID00590",0.835740687581906,0.886,0.266,0.792,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ditylum ",FALSE
-"20","Ceratium_sp.","ID00590","ID00540",0.311146908295914,"ID00540",0.555203649468709,"ID00589",0.835740687581906,0.586,0.328,0.814,"Ceratium","Ceratium",TRUE,"Ditylum ",FALSE,"Ditylum ",FALSE
-"21","Ceratium_sp.","ID00591","ID00594",0.42926529479803,"ID00594",0.686236568118131,"ID00594",0.932978982528359,0.96,0.994,0.836,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"22","Ceratium_sp.","ID00592","ID00587",0.292973628450473,"ID00587",0.704555757720294,"ID00583",0.794844718154279,0.916,0.942,0.94,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"23","Ceratium_sp.","ID00593","ID00540",0.260160566644975,"ID00591",0.566186685285344,"ID00591",0.882875703479833,0.294,0.966,0.918,"Ceratium","Ceratium",TRUE,"Ditylum ",FALSE,"Ceratium",TRUE
-"24","Ceratium_sp.","ID00594","ID00591",0.42926529479803,"ID00591",0.686236568118131,"ID00591",0.932978982528359,1,1,0.874,"Ceratium","Ceratium",TRUE,"Ceratium",TRUE,"Ceratium",TRUE
-"25","Ceratium_sp.","ID00097","ID00614",0.225151993740851,"ID00641",0.390719280120362,"ID00641",0.656213198145801,0.57,0.972,0.83,"Ceratium","Coscinodiscus ",FALSE,"Coscinodiscus ",FALSE,"Coscinodiscus ",FALSE
-"26","Ceratium_sp.","ID00098","ID00389",0.163393166176641,"ID00634",0.329662520391261,"ID00097",0.542859958671439,0.426,0.842,0.608,"Ceratium","Ceratium",TRUE,"Lauderia",FALSE,"Coscinodiscus ",FALSE
-"27","Chaetoceros_diadema","ID00566","ID00571",0.398912908617534,"ID00616",0.570427888905134,"ID00571",0.890365383569709,0.988,0.33,0.432,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Coscinodiscus ",FALSE
-"28","Chaetoceros_diadema","ID00567","ID00569",0.424548318759837,"ID00571",0.596522319431302,"ID00534",0.8714550380299,0.99,0.92,0.148,"Chaetoceros","Rhizosolenia",FALSE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"29","Chaetoceros_diadema","ID00568","ID00572",0.444536613864793,"ID00569",0.68603746014142,"ID00569",0.948782686989367,0.98,0.982,0.582,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"30","Chaetoceros_diadema","ID00569","ID00572",0.475199645340665,"ID00572",0.712585527757543,"ID00568",0.948782686989367,0.934,0.964,0.528,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"31","Chaetoceros_diadema","ID00570","ID00572",0.465629574501264,"ID00572",0.666593819757786,"ID00577",0.931342568889356,0.994,0.97,0.582,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"32","Chaetoceros_diadema","ID00571","ID00567",0.410813418663316,"ID00534",0.603253209711736,"ID00572",0.908871663372015,0.924,0.172,0.762,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Rhizosolenia",FALSE
-"33","Chaetoceros_diadema","ID00572","ID00569",0.475199645340665,"ID00569",0.712585527757543,"ID00569",0.947547822541921,0.978,0.938,0.706,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"34","Chaetoceros_diadema","ID00573","ID00547",0.341982809636384,"ID00548",0.703577507140917,"ID00548",0.978151748090759,0.694,0.962,0.348,"Chaetoceros","Ditylum ",FALSE,"Ditylum ",FALSE,"Ditylum ",FALSE
-"35","Chaetoceros_diadema","ID00574","ID00575",0.377581611500661,"ID00575",0.666784759718876,"ID00575",0.954683295345035,0.994,0.904,0.654,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"36","Chaetoceros_diadema","ID00575","ID00574",0.377581611500661,"ID00577",0.672957456175371,"ID00574",0.954683295345035,0.926,0.98,0.58,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"37","Chaetoceros_diadema","ID00576","ID00580",0.408188198952947,"ID00545",0.592053868143815,"ID00673",0.853692629069751,0.6,0.284,0.164,"Chaetoceros","Ditylum ",FALSE,"Chaetoceros",TRUE,"Ditylum ",FALSE
-"38","Chaetoceros_diadema","ID00577","ID00572",0.397567480731131,"ID00575",0.672957456175371,"ID00574",0.943367095058488,0.962,0.994,0.656,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"39","Chaetoceros_diadema","ID00578","ID00682",0.088171819419011,"ID00681",0.441534542687807,"ID00681",0.86532956102844,0.282,0.656,0.672,"Chaetoceros","Pleurosigma",FALSE,"Pleurosigma",FALSE,"Pleurosigma",FALSE
-"40","Chaetoceros_diadema","ID00579","ID00572",0.394099758823768,"ID00535",0.639860701911623,"ID00572",0.912558209034435,0.822,0.856,0.508,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Rhizosolenia",FALSE
-"41","Chaetoceros_diadema","ID00580","ID00576",0.408188198952947,"ID00576",0.563927529299657,"ID00579",0.839154664940341,0.998,0.87,0.666,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"42","Chaetoceros_diadema","ID00581","ID00673",0.340823455402962,"ID00602",0.526050428738351,"ID00602",0.782298118383502,0.802,0.876,0.756,"Chaetoceros","Coscinodiscus ",FALSE,"Ditylum ",FALSE,"Coscinodiscus ",FALSE
-"43","Chaetoceros_didymus","ID00086","ID00092",0.319940704949586,"ID00089",0.61056497662309,"ID00089",0.907916804381363,1,1,0.972,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"44","Chaetoceros_didymus","ID00087","ID00089",0.305651011061899,"ID00089",0.573968394160821,"ID00089",0.872677937664084,1,1,0.976,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"45","Chaetoceros_didymus","ID00088","ID00089",0.375908759679106,"ID00089",0.656167446174715,"ID00089",0.905490675286465,1,0.996,0.866,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"46","Chaetoceros_didymus","ID00089","ID00090",0.465350674670926,"ID00090",0.699975341562689,"ID00090",0.942673408550333,1,1,0.984,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"47","Chaetoceros_didymus","ID00090","ID00089",0.465350674670926,"ID00089",0.699975341562689,"ID00089",0.942673408550333,1,1,0.968,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"48","Chaetoceros_didymus","ID00091","ID00092",0.455218214480941,"ID00092",0.604248391961312,"ID00092",0.88257114793104,1,1,0.996,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"49","Chaetoceros_didymus","ID00092","ID00091",0.455218214480941,"ID00089",0.616897535073259,"ID00089",0.899923345915365,1,1,0.99,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"50","Chaetoceros_didymus","ID00093","ID00094",0.441377250141174,"ID00094",0.687438905275194,"ID00094",0.917800686728628,1,1,1,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"51","Chaetoceros_didymus","ID00094","ID00093",0.441377250141174,"ID00093",0.687438905275194,"ID00093",0.917800686728628,1,1,0.99,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"52","Chaetoceros_sp.","ID00153","ID00052",0.178932078556305,"ID00327",0.31659860617734,"ID00327",0.675163948698486,0.85,0.532,0.556,"Chaetoceros","Thalassiosira ",FALSE,"Coscinodiscus ",FALSE,"Thalassiosira ",FALSE
-"53","Chaetoceros_sp.","ID00154","ID00155",0.142857142857143,"ID00155",0.61426116838488,"ID00155",0.783087908000556,0.742,0.742,0.742,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"54","Chaetoceros_sp.","ID00155","ID00154",0.142857142857143,"ID00154",0.61426116838488,"ID00154",0.783087908000556,0.514,0.568,0.63,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"55","Chaetoceros_sp.","ID00157","ID00159",0.376609153928631,"ID00158",0.676084056868441,"ID00159",0.927791904917704,1,1,0.966,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"56","Chaetoceros_sp.","ID00158","ID00159",0.359817944872253,"ID00157",0.676084056868441,"ID00157",0.921670449074981,1,0.998,0.958,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"57","Chaetoceros_sp.","ID00159","ID00157",0.376609153928631,"ID00157",0.647260972181378,"ID00157",0.927791904917704,1,1,0.94,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"58","Chaetoceros_sp.","ID00160","ID00161",0.315928739933612,"ID00161",0.620876163169366,"ID00161",0.913148363632945,1,1,0.898,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"59","Chaetoceros_sp.","ID00161","ID00160",0.315928739933612,"ID00160",0.620876163169366,"ID00162",0.925400351508384,1,1,0.926,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"60","Chaetoceros_sp.","ID00162","ID00160",0.310939109225679,"ID00160",0.588405980559026,"ID00161",0.925400351508384,1,0.954,0.71,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"61","Chaetoceros_sp.","ID00163","ID00164",0.28334208424663,"ID00161",0.556699249631353,"ID00161",0.880973329803869,1,0.998,0.884,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"62","Chaetoceros_sp.","ID00164","ID00165",0.308880272707447,"ID00165",0.585339071761453,"ID00165",0.919043161675458,1,1,0.982,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"63","Chaetoceros_sp.","ID00165","ID00166",0.323870222005333,"ID00166",0.658407616210719,"ID00166",0.935333681473083,1,1,0.994,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"64","Chaetoceros_sp.","ID00166","ID00165",0.323870222005333,"ID00165",0.658407616210719,"ID00165",0.935333681473083,1,1,0.998,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"65","Chaetoceros_sp.","ID00202","ID00207",0.151548904555021,"ID00203",0.275282500461147,"ID00389",0.512170280463893,0.684,0.41,0.134,"Chaetoceros","Lauderia",FALSE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"66","Chaetoceros_sp.","ID00203","ID00204",0.21495795163243,"ID00204",0.531606332529762,"ID00204",0.872112370937771,0.95,0.85,0.704,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"67","Chaetoceros_sp.","ID00204","ID00207",0.296260960429443,"ID00207",0.547648714918392,"ID00203",0.872112370937771,0.994,1,0.944,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"68","Chaetoceros_sp.","ID00205","ID00207",0.228925858475862,"ID00207",0.491504181296427,"ID00207",0.815997820170842,0.994,0.83,0.59,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"69","Chaetoceros_sp.","ID00206","ID00209",0.16955497374032,"ID00164",0.4044876872423,"ID00208",0.733643643613236,0.956,1,0.992,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"70","Chaetoceros_sp.","ID00207","ID00204",0.296260960429443,"ID00204",0.547648714918392,"ID00204",0.83982088128953,0.998,0.994,0.906,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"71","Chaetoceros_sp.","ID00208","ID00163",0.140758518183863,"ID00209",0.537939922635423,"ID00209",0.875365326143772,0.97,0.892,0.712,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"72","Chaetoceros_sp.","ID00209","ID00207",0.173882854437747,"ID00208",0.537939922635423,"ID00208",0.875365326143772,0.924,0.732,0.728,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"73","Chaetoceros_sp.","ID00549","ID00552",0.482823802577254,"ID00552",0.748914925041295,"ID00551",0.967384001871462,1,1,0.846,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"74","Chaetoceros_sp.","ID00550","ID00552",0.447145680390948,"ID00552",0.736399397080689,"ID00551",0.966957466658814,1,1,0.884,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"75","Chaetoceros_sp.","ID00551","ID00552",0.487156536701867,"ID00550",0.731374316966758,"ID00552",0.970635141330673,1,1,0.876,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"76","Chaetoceros_sp.","ID00552","ID00551",0.487156536701867,"ID00549",0.748914925041295,"ID00551",0.970635141330673,1,0.996,0.75,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"77","Chaetoceros_sp.","ID00553","ID00555",0.344715802875983,"ID00555",0.657515901625368,"ID00559",0.961359895272808,1,1,0.78,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"78","Chaetoceros_sp.","ID00554","ID00556",0.434784338629554,"ID00556",0.721769623248871,"ID00556",0.963127498322189,1,1,0.646,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"79","Chaetoceros_sp.","ID00555","ID00554",0.39763001329712,"ID00553",0.657515901625368,"ID00553",0.946920886863893,1,1,0.79,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"80","Chaetoceros_sp.","ID00556","ID00561",0.515537001586388,"ID00562",0.746376746305607,"ID00562",0.973503436651397,1,1,0.63,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"81","Chaetoceros_sp.","ID00557","ID00561",0.432324586762957,"ID00563",0.668182857811303,"ID00556",0.959360987478147,1,1,0.75,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"82","Chaetoceros_sp.","ID00558","ID00561",0.428677087828093,"ID00561",0.658143538050932,"ID00557",0.947391816205912,1,1,0.73,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"83","Chaetoceros_sp.","ID00559","ID00560",0.437705567447373,"ID00560",0.755103465443159,"ID00560",0.987866739972727,1,1,0.804,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"84","Chaetoceros_sp.","ID00560","ID00559",0.437705567447373,"ID00559",0.755103465443159,"ID00559",0.987866739972727,1,1,0.886,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"85","Chaetoceros_sp.","ID00561","ID00556",0.515537001586388,"ID00556",0.702996364622061,"ID00562",0.949424586763513,1,0.998,0.678,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"86","Chaetoceros_sp.","ID00562","ID00556",0.476916354742991,"ID00556",0.746376746305607,"ID00556",0.973503436651397,1,1,0.698,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"87","Chaetoceros_sp.","ID00563","ID00562",0.422159390176901,"ID00565",0.735430948057755,"ID00565",0.984429146213426,1,1,0.788,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"88","Chaetoceros_sp.","ID00564","ID00565",0.435613843228968,"ID00559",0.720482229529066,"ID00559",0.980413241655299,1,1,0.848,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"89","Chaetoceros_sp.","ID00565","ID00564",0.435613843228968,"ID00563",0.735430948057755,"ID00563",0.984429146213426,1,1,0.732,"Chaetoceros","Chaetoceros",TRUE,"Chaetoceros",TRUE,"Chaetoceros",TRUE
-"90","Coscinodiscus _granii","ID00055","ID00688",0.193930626093972,"ID00056",0.415573994164228,"ID00056",0.682902826090797,0.58,0.718,0.678,"Coscinodiscus ","Coscinodiscus ",TRUE,"Pleurosigma",FALSE,"Coscinodiscus ",TRUE
-"91","Coscinodiscus _granii","ID00056","ID00057",0.26660822520832,"ID00057",0.618753382452855,"ID00057",0.902029006149685,1,0.998,0.774,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"92","Coscinodiscus _granii","ID00057","ID00056",0.26660822520832,"ID00056",0.618753382452855,"ID00056",0.902029006149685,0.958,0.992,0.784,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"93","Coscinodiscus _granii","ID00595","ID00597",0.376960497626668,"ID00596",0.683070236758561,"ID00596",0.961412506196811,0.908,0.992,0.632,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"94","Coscinodiscus _granii","ID00596","ID00609",0.432279322673772,"ID00595",0.683070236758561,"ID00595",0.961412506196811,1,1,0.774,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"95","Coscinodiscus _granii","ID00597","ID00610",0.523640413588381,"ID00611",0.778320114334927,"ID00610",0.969541702776431,0.816,1,0.698,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"96","Coscinodiscus _granii","ID00598","ID00612",0.485727791207716,"ID00599",0.719200678999151,"ID00599",0.956870742800081,0.994,1,0.876,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"97","Coscinodiscus _granii","ID00599","ID00600",0.542779182118937,"ID00612",0.748923229473799,"ID00601",0.966618619906228,0.976,1,0.92,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"98","Coscinodiscus _granii","ID00600","ID00599",0.542779182118937,"ID00612",0.739726284572318,"ID00612",0.961568704408655,0.998,1,0.912,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"99","Coscinodiscus _granii","ID00601","ID00603",0.557870947189837,"ID00603",0.815011606692919,"ID00603",0.978221679201076,0.998,1,0.88,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"100","Coscinodiscus _granii","ID00602","ID00532",0.411845781732875,"ID00532",0.616124842968755,"ID00532",0.809578423645912,0.79,0.784,0.23,"Coscinodiscus ","Rhizosolenia",FALSE,"Rhizosolenia",FALSE,"Rhizosolenia",FALSE
-"101","Coscinodiscus _granii","ID00603","ID00601",0.557870947189837,"ID00601",0.815011606692919,"ID00601",0.978221679201076,1,0.998,0.89,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"102","Coscinodiscus _granii","ID00604","ID00601",0.511562441862573,"ID00601",0.786878817608496,"ID00601",0.977417042088221,1,1,0.904,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"103","Coscinodiscus _granii","ID00605","ID00603",0.525961038270139,"ID00607",0.750191014177368,"ID00603",0.958978855494341,1,1,0.934,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"104","Coscinodiscus _granii","ID00606","ID00607",0.50685335417774,"ID00605",0.738953104655635,"ID00605",0.946912826981277,0.99,0.998,0.868,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"105","Coscinodiscus _granii","ID00607","ID00606",0.50685335417774,"ID00605",0.750191014177368,"ID00604",0.96123932319351,0.998,1,0.946,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"106","Coscinodiscus _granii","ID00608","ID00607",0.445813410472672,"ID00607",0.677035979039492,"ID00607",0.857262173757095,0.998,0.998,0.854,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"107","Coscinodiscus _granii","ID00609","ID00610",0.529844242948686,"ID00610",0.746484683517131,"ID00610",0.961058278548655,0.986,0.982,0.734,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"108","Coscinodiscus _granii","ID00610","ID00609",0.529844242948686,"ID00611",0.793094517755641,"ID00611",0.979333125792395,0.974,0.984,0.662,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"109","Coscinodiscus _granii","ID00611","ID00597",0.51590719498799,"ID00610",0.793094517755641,"ID00610",0.979333125792395,0.842,0.994,0.706,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"110","Coscinodiscus _granii","ID00612","ID00604",0.495332883634989,"ID00599",0.748923229473799,"ID00600",0.961568704408655,1,0.998,0.872,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"111","Coscinodiscus _granii","ID00051","ID00012",0.120889211527138,"ID00012",0.177904381791473,"ID00055",0.282702070641271,0.628,0.888,0.642,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"112","Coscinodiscus _granii","ID00052","ID00267",0.209445154757399,"ID00054",0.512582813689289,"ID00054",0.872079123113898,0.392,0.196,0.422,"Coscinodiscus ","Coscinodiscus ",TRUE,"Ditylum ",FALSE,"Coscinodiscus ",TRUE
-"113","Coscinodiscus _granii","ID00053","ID00390",0.231592266313972,"ID00390",0.503963885211082,"ID00390",0.825237137055325,0.488,0.818,0.578,"Coscinodiscus ","Lauderia",FALSE,"Lauderia",FALSE,"Lauderia",FALSE
-"114","Coscinodiscus _granii","ID00054","ID00263",0.216684924951772,"ID00052",0.512582813689289,"ID00052",0.872079123113898,0.418,0.16,0.312,"Coscinodiscus ","Coscinodiscus ",TRUE,"Pleurosigma",FALSE,"Coscinodiscus ",TRUE
-"115","Coscinodiscus _radiatus","ID00027","ID00029",0.194768744440477,"ID00029",0.613478660966879,"ID00029",0.935004334880598,0.998,0.972,0.704,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"116","Coscinodiscus _radiatus","ID00028","ID00029",0.214858074887886,"ID00029",0.436231449032043,"ID00013",0.688785570621392,0.996,1,0.962,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"117","Coscinodiscus _radiatus","ID00029","ID00028",0.214858074887886,"ID00027",0.613478660966879,"ID00027",0.935004334880598,0.998,0.998,0.744,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"118","Coscinodiscus _radiatus","ID00629","ID00630",0.376681143470245,"ID00630",0.63147479571864,"ID00630",0.89540314455921,1,1,0.89,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"119","Coscinodiscus _radiatus","ID00630","ID00639",0.495145160119409,"ID00633",0.759371812153287,"ID00639",0.973181291847814,1,1,0.852,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"120","Coscinodiscus _radiatus","ID00631","ID00632",0.544887499523518,"ID00632",0.791849004757123,"ID00632",0.983165255114323,1,1,0.676,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"121","Coscinodiscus _radiatus","ID00632","ID00631",0.544887499523518,"ID00631",0.791849004757123,"ID00631",0.983165255114323,1,1,0.824,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"122","Coscinodiscus _radiatus","ID00633","ID00630",0.489559344050022,"ID00630",0.759371812153287,"ID00639",0.953712623132592,1,1,0.888,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"123","Coscinodiscus _radiatus","ID00634","ID00635",0.512556320680933,"ID00635",0.788540330490434,"ID00635",0.965514957588582,1,1,0.81,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"124","Coscinodiscus _radiatus","ID00635","ID00634",0.512556320680933,"ID00634",0.788540330490434,"ID00634",0.965514957588582,1,1,0.762,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"125","Coscinodiscus _radiatus","ID00636","ID00631",0.51843273082031,"ID00630",0.750825927243915,"ID00632",0.968603566287617,1,1,0.87,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"126","Coscinodiscus _radiatus","ID00637","ID00638",0.561608362823658,"ID00638",0.773053182614274,"ID00638",0.937423202192705,1,1,0.738,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"127","Coscinodiscus _radiatus","ID00638","ID00637",0.561608362823658,"ID00637",0.773053182614274,"ID00640",0.968480778824327,0.994,0.958,0.884,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"128","Coscinodiscus _radiatus","ID00639","ID00630",0.495145160119409,"ID00630",0.757797786875136,"ID00630",0.973181291847814,1,1,0.856,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"129","Coscinodiscus _radiatus","ID00640","ID00638",0.551132346507456,"ID00638",0.771654254713843,"ID00638",0.968480778824327,1,1,0.792,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"130","Coscinodiscus _radiatus","ID00641","ID00627",0.417502457418619,"ID00627",0.626699568203928,"ID00635",0.842365668957755,1,1,0.564,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"131","Coscinodiscus _sp.","ID00613","ID00616",0.426364053945352,"ID00627",0.646694501128202,"ID00623",0.915644786551669,0.978,0.946,0.804,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"132","Coscinodiscus _sp.","ID00614","ID00626",0.384172123383224,"ID00639",0.61402543025352,"ID00627",0.923914067501516,0.596,0.92,0.72,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"133","Coscinodiscus _sp.","ID00615","ID00616",0.407461048663852,"ID00626",0.639712034989176,"ID00616",0.932906948347802,0.826,0.512,0.684,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"134","Coscinodiscus _sp.","ID00616","ID00628",0.431924538441596,"ID00613",0.642448572119857,"ID00615",0.932906948347802,0.774,0.554,0.594,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"135","Coscinodiscus _sp.","ID00617","ID00619",0.285823900087364,"ID00619",0.580286100071516,"ID00619",0.910093798221556,1,1,0.964,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"136","Coscinodiscus _sp.","ID00618","ID00536",0.377351716611313,"ID00640",0.601862220070306,"ID00620",0.886323913901287,0.584,0.452,0.426,"Coscinodiscus ","Coscinodiscus ",TRUE,"Rhizosolenia",FALSE,"Coscinodiscus ",TRUE
-"137","Coscinodiscus _sp.","ID00619","ID00642",0.315143115396762,"ID00617",0.580286100071516,"ID00617",0.910093798221556,1,1,0.908,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"138","Coscinodiscus _sp.","ID00620","ID00530",0.469916159486503,"ID00527",0.74400929328885,"ID00527",0.968025763061308,0.978,0.938,0.43,"Coscinodiscus ","Rhizosolenia",FALSE,"Rhizosolenia",FALSE,"Rhizosolenia",FALSE
-"139","Coscinodiscus _sp.","ID00621","ID00616",0.389279393701801,"ID00613",0.590048304374777,"ID00622",0.911282324639649,0.998,0.902,0.894,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"140","Coscinodiscus _sp.","ID00622","ID00626",0.448231244755058,"ID00613",0.608776382319813,"ID00621",0.911282324639649,0.994,0.858,0.842,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"141","Coscinodiscus _sp.","ID00623","ID00627",0.386604783334889,"ID00628",0.681150846173346,"ID00628",0.923967419720298,0.972,0.962,0.81,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"142","Coscinodiscus _sp.","ID00624","ID00615",0.343766275106536,"ID00626",0.619564555120582,"ID00626",0.929475358745542,0.864,0.81,0.76,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"143","Coscinodiscus _sp.","ID00625","ID00624",0.295431770568486,"ID00547",0.615810157988636,"ID00547",0.950455135875382,0.448,0.638,0.186,"Coscinodiscus ","Ditylum ",FALSE,"Coscinodiscus ",TRUE,"Ditylum ",FALSE
-"144","Coscinodiscus _sp.","ID00626","ID00622",0.448231244755058,"ID00615",0.639712034989176,"ID00624",0.929475358745542,1,0.976,0.792,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"145","Coscinodiscus _sp.","ID00627","ID00641",0.417502457418619,"ID00613",0.646694501128202,"ID00614",0.923914067501516,0.956,0.996,0.864,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"146","Coscinodiscus _sp.","ID00628","ID00616",0.431924538441596,"ID00623",0.681150846173346,"ID00623",0.923967419720298,0.922,0.944,0.78,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"147","Coscinodiscus _wailesii","ID00011","ID00642",0.2207733631973,"ID00028",0.373249952578757,"ID00028",0.67078131853679,1,0.958,0.86,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"148","Coscinodiscus _wailesii","ID00012","ID00643",0.301945059678552,"ID00643",0.506856985651387,"ID00266",0.902429023901548,1,0.664,0.314,"Coscinodiscus ","Ditylum ",FALSE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"149","Coscinodiscus _wailesii","ID00013","ID00636",0.238056544105667,"ID00012",0.434055982292048,"ID00029",0.805854690773575,0.954,0.84,0.73,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"150","Coscinodiscus _wailesii","ID00642","ID00650",0.535861359186293,"ID00650",0.766773883073061,"ID00650",0.987046779474563,1,1,0.726,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"151","Coscinodiscus _wailesii","ID00643","ID00645",0.4783857040642,"ID00650",0.636196163817092,"ID00646",0.934357927195432,1,1,0.73,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"152","Coscinodiscus _wailesii","ID00644","ID00649",0.615581320516503,"ID00649",0.753419009374025,"ID00649",0.953902827024002,1,1,0.904,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"153","Coscinodiscus _wailesii","ID00645","ID00643",0.4783857040642,"ID00643",0.468990871636464,"ID00654",0.653625564867514,1,0.97,0.818,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"154","Coscinodiscus _wailesii","ID00646","ID00647",0.484405565010771,"ID00650",0.675596877996241,"ID00655",0.962717610264912,1,1,0.55,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"155","Coscinodiscus _wailesii","ID00647","ID00648",0.533959925430519,"ID00648",0.74581087627178,"ID00648",0.972364159989385,1,1,0.706,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"156","Coscinodiscus _wailesii","ID00648","ID00651",0.556573707722759,"ID00651",0.765599199809233,"ID00647",0.972364159989385,1,1,0.636,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"157","Coscinodiscus _wailesii","ID00649","ID00644",0.615581320516503,"ID00644",0.753419009374025,"ID00644",0.953902827024002,1,1,0.986,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"158","Coscinodiscus _wailesii","ID00650","ID00642",0.535861359186293,"ID00642",0.766773883073061,"ID00642",0.987046779474563,1,1,0.788,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"159","Coscinodiscus _wailesii","ID00651","ID00648",0.556573707722759,"ID00648",0.765599199809233,"ID00642",0.969154480764018,1,1,0.688,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"160","Coscinodiscus _wailesii","ID00652","ID00655",0.498472148505349,"ID00655",0.600056588617262,"ID00650",0.921975228280624,1,0.894,0.674,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"161","Coscinodiscus _wailesii","ID00653","ID00655",0.534298899444862,"ID00655",0.66673283232119,"ID00650",0.96517161478538,1,0.854,0.702,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"162","Coscinodiscus _wailesii","ID00654","ID00643",0.442562638864044,"ID00649",0.497494736672805,"ID00649",0.799282001606797,1,0.99,0.66,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"163","Coscinodiscus _wailesii","ID00655","ID00653",0.534298899444862,"ID00653",0.66673283232119,"ID00646",0.962717610264912,1,0.95,0.43,"Coscinodiscus ","Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE,"Coscinodiscus ",TRUE
-"164","Ditylum _sp.","ID00266","ID00652",0.189673602488644,"ID00548",0.493221743054523,"ID00392",0.916462500280562,1,0.468,0.41,"Ditylum ","Rhizosolenia",FALSE,"Coscinodiscus ",FALSE,"Ditylum ",TRUE
-"165","Ditylum _sp.","ID00267","ID00052",0.209445154757399,"ID00264",0.648439014695952,"ID00264",0.915492116901936,0.67,0.536,0.288,"Ditylum ","Pleurosigma",FALSE,"Coscinodiscus ",FALSE,"Pleurosigma",FALSE
-"166","Ditylum _sp.","ID00268","ID00263",0.125904267373353,"ID00242",0.626317355423668,"ID00242",0.93424038024061,0.694,0.424,0.512,"Ditylum ","Ceratium",FALSE,"Pleurosigma",FALSE,"Ceratium",FALSE
-"167","Ditylum _sp.","ID00265","ID00538",0.221161274437336,"ID00663",0.403484690205586,"ID00663",0.721757164780566,0.456,0.208,0.24,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"168","Ditylum _sp.","ID00538","ID00539",0.496262433720867,"ID00542",0.723243507118555,"ID00543",0.934194973632979,0.998,0.848,0.392,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"169","Ditylum _sp.","ID00539","ID00538",0.496262433720867,"ID00611",0.719149714780219,"ID00611",0.951362909863443,0.536,0.688,0.288,"Ditylum ","Coscinodiscus ",FALSE,"Ditylum ",TRUE,"Coscinodiscus ",FALSE
-"170","Ditylum _sp.","ID00540","ID00543",0.341652976515115,"ID00539",0.613644627661266,"ID00539",0.926995031640051,0.726,0.772,0.242,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"171","Ditylum _sp.","ID00541","ID00664",1,"ID00664",1,"ID00664",1,1,1,0.486,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"172","Ditylum _sp.","ID00542","ID00665",1,"ID00665",1,"ID00665",1,1,1,0.484,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"173","Ditylum _sp.","ID00543","ID00666",1,"ID00666",1,"ID00666",1,1,1,0.524,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"174","Ditylum _sp.","ID00544","ID00667",1,"ID00667",1,"ID00667",1,1,1,0.484,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"175","Ditylum _sp.","ID00545","ID00668",1,"ID00668",1,"ID00668",1,1,1,0.438,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"176","Ditylum _sp.","ID00546","ID00669",1,"ID00669",1,"ID00669",1,1,1,0.704,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"177","Ditylum _sp.","ID00547","ID00670",1,"ID00670",1,"ID00670",1,1,1,0.482,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"178","Ditylum _sp.","ID00548","ID00671",1,"ID00671",1,"ID00671",1,1,1,0.46,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"179","Ditylum _sp.","ID00656","ID00663",0.333067849859423,"ID00662",0.659257977386664,"ID00662",0.949200008131171,1,0.996,0.614,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"180","Ditylum _sp.","ID00657","ID00659",0.46988570320804,"ID00659",0.751044895367278,"ID00659",0.967306477928364,1,1,0.73,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"181","Ditylum _sp.","ID00658","ID00662",0.365815347443326,"ID00659",0.658411265929152,"ID00659",0.944319989401588,0.998,1,0.774,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"182","Ditylum _sp.","ID00659","ID00657",0.46988570320804,"ID00657",0.751044895367278,"ID00657",0.967306477928364,1,1,0.814,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"183","Ditylum _sp.","ID00660","ID00659",0.462660215300852,"ID00659",0.715818999516716,"ID00657",0.945982622728848,1,1,0.756,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"184","Ditylum _sp.","ID00661","ID00660",0.433578527556961,"ID00660",0.714050264556437,"ID00660",0.920607508089968,1,1,0.558,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"185","Ditylum _sp.","ID00662","ID00663",0.514015457694507,"ID00663",0.720575829990134,"ID00663",0.964922994851344,1,0.998,0.708,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"186","Ditylum _sp.","ID00663","ID00662",0.514015457694507,"ID00662",0.720575829990134,"ID00662",0.964922994851344,1,0.978,0.624,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"187","Ditylum _sp.","ID00664","ID00541",1,"ID00541",1,"ID00541",1,1,1,0.518,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"188","Ditylum _sp.","ID00665","ID00542",1,"ID00542",1,"ID00542",1,1,1,0.424,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"189","Ditylum _sp.","ID00666","ID00543",1,"ID00543",1,"ID00543",1,1,1,0.498,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"190","Ditylum _sp.","ID00667","ID00544",1,"ID00544",1,"ID00544",1,1,1,0.462,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"191","Ditylum _sp.","ID00668","ID00545",1,"ID00545",1,"ID00545",1,1,1,0.416,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"192","Ditylum _sp.","ID00669","ID00546",1,"ID00546",1,"ID00546",1,1,1,0.696,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"193","Ditylum _sp.","ID00670","ID00547",1,"ID00547",1,"ID00547",1,1,1,0.468,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"194","Ditylum _sp.","ID00671","ID00548",1,"ID00548",1,"ID00548",1,1,1,0.518,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"195","Ditylum _sp.","ID00672","ID00547",0.393194453880827,"ID00547",0.739721614804261,"ID00547",0.979557955614096,0.994,0.996,0.454,"Ditylum ","Ditylum ",TRUE,"Ditylum ",TRUE,"Ditylum ",TRUE
-"196","Ditylum _sp.","ID00673","ID00545",0.375451617644945,"ID00648",0.592007458193889,"ID00648",0.911759596695348,0.634,0.352,0.396,"Ditylum ","Coscinodiscus ",FALSE,"Ditylum ",TRUE,"Coscinodiscus ",FALSE
-"197","Guinardia _sp.","ID00342","ID00354",0.427154530626644,"ID00354",0.646028765639939,"ID00354",0.883926604578463,0.998,0.994,0.844,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"198","Guinardia _sp.","ID00345","ID00392",0.414936994665465,"ID00392",0.677727224783166,"ID00392",0.966672284053877,1,0.972,0.57,"Guinardia ","Rhizosolenia",FALSE,"Rhizosolenia",FALSE,"Rhizosolenia",FALSE
-"199","Guinardia _sp.","ID00346","ID00371",0.427175630595122,"ID00375",0.595727481104606,"ID00305",0.850682114726977,1,1,0.936,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"200","Guinardia _sp.","ID00295","ID00375",0.370163793509108,"ID00375",0.618468167914571,"ID00375",0.864864115598202,0.88,0.996,0.662,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"201","Guinardia _sp.","ID00349","ID00350",0.404111726211754,"ID00350",0.581990434150193,"ID00350",0.901181220414784,0.646,0.668,0.808,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"202","Guinardia _sp.","ID00350","ID00317",0.452513606362519,"ID00366",0.676377471494506,"ID00349",0.901181220414784,0.994,1,0.82,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"203","Guinardia _sp.","ID00296","ID00645",0.276130634943482,"ID00645",0.345352714487895,"ID00056",0.611843522001194,0.814,0.926,0.572,"Guinardia ","Coscinodiscus ",FALSE,"Coscinodiscus ",FALSE,"Coscinodiscus ",FALSE
-"204","Guinardia _sp.","ID00297","ID00645",0.366781193797732,"ID00645",0.359788213006137,"ID00342",0.677187793035812,1,0.682,0.486,"Guinardia ","Guinardia ",TRUE,"Coscinodiscus ",FALSE,"Coscinodiscus ",FALSE
-"205","Guinardia _sp.","ID00300","ID00236",0.2,"ID00236",0.832476402424987,"ID00236",0.978573204972568,0.736,0.702,0.702,"Guinardia ","Ceratium",FALSE,"Ceratium",FALSE,"Ceratium",FALSE
-"206","Guinardia _sp.","ID00353","ID00358",0.395627967553084,"ID00358",0.690498436162313,"ID00358",0.954466510649676,1,1,0.808,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"207","Guinardia _sp.","ID00354","ID00342",0.427154530626644,"ID00342",0.646028765639939,"ID00357",0.888649387743164,1,1,0.948,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"208","Guinardia _sp.","ID00357","ID00313",0.376474891228847,"ID00354",0.618469411030941,"ID00354",0.888649387743164,0.622,0.844,0.778,"Guinardia ","Guinardia ",TRUE,"Rhizosolenia",FALSE,"Guinardia ",TRUE
-"209","Guinardia _sp.","ID00358","ID00353",0.395627967553084,"ID00353",0.690498436162313,"ID00353",0.954466510649676,1,1,0.816,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"210","Guinardia _sp.","ID00305","ID00354",0.359411637325344,"ID00354",0.612442894478389,"ID00354",0.851391620525699,0.954,0.984,0.844,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"211","Guinardia _sp.","ID00306","ID00371",0.400240518574697,"ID00381",0.596426444345083,"ID00337",0.853646972818869,0.472,0.664,0.44,"Guinardia ","Pleurosigma",FALSE,"Guinardia ",TRUE,"Lauderia",FALSE
-"212","Guinardia _sp.","ID00366","ID00314",0.543869791702427,"ID00314",0.759873180178619,"ID00314",0.946391941872641,1,1,0.69,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"213","Guinardia _sp.","ID00309","ID00314",0.402776175564976,"ID00314",0.604323404308431,"ID00375",0.805541876334687,0.722,0.77,0.838,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"214","Guinardia _sp.","ID00368","ID00372",0.239644980856512,"ID00318",0.359114994100781,"ID00318",0.543055358767628,0.33,0.732,0.56,"Guinardia ","Thalassiosira ",FALSE,"Guinardia ",TRUE,"Thalassiosira ",FALSE
-"215","Guinardia _sp.","ID00371","ID00372",0.474013528610948,"ID00372",0.634690414755948,"ID00372",0.884648712916483,0.988,1,0.958,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"216","Guinardia _sp.","ID00372","ID00371",0.474013528610948,"ID00371",0.634690414755948,"ID00371",0.884648712916483,1,0.996,0.808,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"217","Guinardia _sp.","ID00375","ID00311",0.415262300070308,"ID00317",0.68085635423521,"ID00317",0.905248661145693,0.99,1,0.838,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"218","Guinardia _sp.","ID00311","ID00314",0.460124535656428,"ID00314",0.73014932289061,"ID00314",0.91085099001353,0.998,1,0.68,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"219","Guinardia _sp.","ID00314","ID00366",0.543869791702427,"ID00366",0.759873180178619,"ID00366",0.946391941872641,1,1,0.904,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"220","Guinardia _sp.","ID00317","ID00350",0.452513606362519,"ID00375",0.68085635423521,"ID00375",0.905248661145693,1,1,0.84,"Guinardia ","Guinardia ",TRUE,"Guinardia ",TRUE,"Guinardia ",TRUE
-"221","Lauderia_sp.","ID00381","ID00306",0.391688621101794,"ID00306",0.596426444345083,"ID00306",0.81591149073789,0.994,1,0.66,"Lauderia","Guinardia ",FALSE,"Guinardia ",FALSE,"Guinardia ",FALSE
-"222","Lauderia_sp.","ID00388","ID00264",0.34105757490869,"ID00263",0.5164286141906,"ID00054",0.865015526047563,0.844,0.576,0.628,"Lauderia","Coscinodiscus ",FALSE,"Pleurosigma",FALSE,"Pleurosigma",FALSE
-"223","Lauderia_sp.","ID00389","ID00680",0.284406656273205,"ID00261",0.556378557233244,"ID00261",0.811207351504371,0.984,0.974,0.622,"Lauderia","Pleurosigma",FALSE,"Pleurosigma",FALSE,"Pleurosigma",FALSE
-"224","Lauderia_sp.","ID00390","ID00261",0.283453743717958,"ID00391",0.552594531108927,"ID00391",0.838171164963495,0.536,0.656,0.436,"Lauderia","Lauderia",TRUE,"Pleurosigma",FALSE,"Lauderia",TRUE
-"225","Lauderia_sp.","ID00391","ID00390",0.270834296788889,"ID00390",0.552594531108928,"ID00390",0.838171164963495,0.926,0.86,0.526,"Lauderia","Lauderia",TRUE,"Lauderia",TRUE,"Lauderia",TRUE
-"226","Pleurosigma_sp.","ID00261","ID00262",0.490108783142108,"ID00262",0.716466451509074,"ID00262",0.941931370336158,0.994,1,0.536,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"227","Pleurosigma_sp.","ID00262","ID00261",0.490108783142108,"ID00261",0.716466451509074,"ID00261",0.941931370336158,0.988,0.998,0.524,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"228","Pleurosigma_sp.","ID00263","ID00388",0.280504063904011,"ID00264",0.742277784199076,"ID00264",0.972857164643914,0.482,0.344,0.306,"Pleurosigma","Pleurosigma",TRUE,"Lauderia",FALSE,"Pleurosigma",TRUE
-"229","Pleurosigma_sp.","ID00264","ID00388",0.34105757490869,"ID00263",0.742277784199076,"ID00263",0.972857164643914,0.738,0.388,0.3,"Pleurosigma","Pleurosigma",TRUE,"Lauderia",FALSE,"Pleurosigma",TRUE
-"230","Pleurosigma_sp.","ID00361","ID00353",0.223265267633776,"ID00327",0.28093547299562,"ID00654",0.354919457714851,0.622,0.404,0.544,"Pleurosigma","Coscinodiscus ",FALSE,"Guinardia ",FALSE,"Thalassiosira ",FALSE
-"231","Pleurosigma_sp.","ID00337","ID00371",0.405952507362559,"ID00306",0.576264659732154,"ID00306",0.853646972818869,1,0.914,0.516,"Pleurosigma","Guinardia ",FALSE,"Guinardia ",FALSE,"Guinardia ",FALSE
-"232","Pleurosigma_sp.","ID00674","ID00676",0.535116556335212,"ID00675",0.765319428622204,"ID00675",0.957452565142644,1,1,0.886,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"233","Pleurosigma_sp.","ID00675","ID00674",0.529724340807715,"ID00674",0.765319428622204,"ID00674",0.957452565142644,1,1,0.774,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"234","Pleurosigma_sp.","ID00676","ID00674",0.535116556335212,"ID00674",0.722981983283508,"ID00680",0.94829612840528,1,1,0.83,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"235","Pleurosigma_sp.","ID00677","ID00599",0.459743134390937,"ID00679",0.69029845009104,"ID00679",0.941468939814637,0.534,0.692,0.452,"Pleurosigma","Pleurosigma",TRUE,"Coscinodiscus ",FALSE,"Pleurosigma",TRUE
-"236","Pleurosigma_sp.","ID00678","ID00680",0.503147762156337,"ID00680",0.769697928106021,"ID00680",0.966137143235467,1,1,0.964,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"237","Pleurosigma_sp.","ID00679","ID00677",0.451634037514538,"ID00677",0.69029845009104,"ID00677",0.941468939814637,0.674,0.494,0.384,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"238","Pleurosigma_sp.","ID00680","ID00676",0.521853780505985,"ID00678",0.769697928106021,"ID00678",0.966137143235467,1,1,0.922,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"239","Pleurosigma_sp.","ID00681","ID00682",0.224040425305283,"ID00682",0.551558217848565,"ID00682",0.888749823865817,0.882,0.798,0.492,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"240","Pleurosigma_sp.","ID00682","ID00681",0.224040425305283,"ID00681",0.551558217848565,"ID00681",0.888749823865817,0.932,0.844,0.81,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"241","Pleurosigma_sp.","ID00683","ID00680",0.450118662183578,"ID00680",0.650956082399095,"ID00686",0.878878461374833,0.828,0.782,0.606,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"242","Pleurosigma_sp.","ID00684","ID00686",0.498330630338305,"ID00686",0.723525875910358,"ID00686",0.93453615406233,1,1,0.746,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"243","Pleurosigma_sp.","ID00685","ID00686",0.459949142550895,"ID00684",0.69707867669273,"ID00686",0.941868019782639,0.91,0.922,0.552,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"244","Pleurosigma_sp.","ID00686","ID00684",0.498330630338305,"ID00684",0.723525875910358,"ID00685",0.941868019782639,1,0.994,0.552,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"245","Pleurosigma_sp.","ID00687","ID00688",0.615082665558282,"ID00688",0.740372834708283,"ID00688",0.968325709059266,1,1,0.724,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"246","Pleurosigma_sp.","ID00688","ID00687",0.615082665558282,"ID00687",0.740372834708283,"ID00687",0.968325709059266,1,1,0.786,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"247","Pleurosigma_sp.","ID00689","ID00688",0.530618310244367,"ID00680",0.723324636403393,"ID00680",0.936158602212687,0.998,0.958,0.736,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"248","Pleurosigma_sp.","ID00690","ID00687",0.506251974295516,"ID00687",0.7059578236459,"ID00687",0.922796490097708,0.976,0.954,0.606,"Pleurosigma","Pleurosigma",TRUE,"Pleurosigma",TRUE,"Pleurosigma",TRUE
-"249","Rhizosolenia_sp.","ID00523","ID00526",0.426828945975514,"ID00526",0.696450189925044,"ID00526",0.907569798564884,0.7,0.684,0.342,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"250","Rhizosolenia_sp.","ID00524","ID00526",0.409399270194947,"ID00526",0.696415821386673,"ID00526",0.924856698040312,0.976,0.932,0.224,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"251","Rhizosolenia_sp.","ID00525","ID00528",0.570076040502613,"ID00528",0.768729149042948,"ID00531",0.97408249882815,1,0.994,0.526,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"252","Rhizosolenia_sp.","ID00526","ID00527",0.556175343315344,"ID00527",0.745670482793006,"ID00527",0.94919475696216,0.998,0.778,0.408,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"253","Rhizosolenia_sp.","ID00527","ID00526",0.556175343315344,"ID00529",0.75944529172978,"ID00525",0.971854671127918,1,0.858,0.464,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"254","Rhizosolenia_sp.","ID00528","ID00525",0.570076040502613,"ID00525",0.768729149042948,"ID00531",0.968619858234751,1,0.996,0.316,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"255","Rhizosolenia_sp.","ID00529","ID00527",0.505456540492895,"ID00527",0.75944529172978,"ID00530",0.976244534709896,0.996,0.976,0.562,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"256","Rhizosolenia_sp.","ID00530","ID00525",0.505810665443294,"ID00533",0.759290779258678,"ID00529",0.976244534709896,0.936,1,0.488,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"257","Rhizosolenia_sp.","ID00531","ID00533",0.458925434137798,"ID00533",0.762024060844225,"ID00525",0.97408249882815,0.692,0.996,0.414,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"258","Rhizosolenia_sp.","ID00532","ID00534",0.430886938853091,"ID00534",0.684355334501851,"ID00545",0.932179912898907,0.772,0.616,0.154,"Rhizosolenia","Ditylum ",FALSE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"259","Rhizosolenia_sp.","ID00533","ID00531",0.458925434137798,"ID00531",0.762024060844225,"ID00531",0.971142312659711,0.786,0.998,0.346,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"260","Rhizosolenia_sp.","ID00534","ID00537",0.436600163530385,"ID00532",0.684355334501851,"ID00533",0.938545921341467,0.804,0.87,0.418,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"261","Rhizosolenia_sp.","ID00535","ID00526",0.457853814922339,"ID00527",0.7505073187122,"ID00533",0.965553708911614,0.998,1,0.42,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"262","Rhizosolenia_sp.","ID00536","ID00537",0.55077741989682,"ID00537",0.766751523106865,"ID00537",0.953476166366776,0.924,0.952,0.338,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"263","Rhizosolenia_sp.","ID00537","ID00536",0.55077741989682,"ID00536",0.766751523106865,"ID00536",0.953476166366776,1,0.994,0.468,"Rhizosolenia","Rhizosolenia",TRUE,"Rhizosolenia",TRUE,"Rhizosolenia",TRUE
-"264","Rhizosolenia_sp.","ID00301","ID00349",0.386460681493047,"ID00349",0.553552088355368,"ID00366",0.845565602332493,0.99,0.526,0.848,"Rhizosolenia","Guinardia ",FALSE,"Guinardia ",FALSE,"Guinardia ",FALSE
-"265","Rhizosolenia_sp.","ID00362","ID00381",0.275660433185422,"ID00306",0.470708862248788,"ID00306",0.733407316691641,0.61,0.54,0.266,"Rhizosolenia","Guinardia ",FALSE,"Lauderia",FALSE,"Guinardia ",FALSE
-"266","Rhizosolenia_sp.","ID00313","ID00309",0.39457360718747,"ID00309",0.590587077368543,"ID00311",0.855465597539799,0.96,0.948,0.802,"Rhizosolenia","Guinardia ",FALSE,"Guinardia ",FALSE,"Guinardia ",FALSE
-"267","Rhizosolenia_sp.","ID00392","ID00345",0.414936994665465,"ID00345",0.677727224783166,"ID00345",0.966672284053877,1,0.994,0.706,"Rhizosolenia","Guinardia ",FALSE,"Guinardia ",FALSE,"Guinardia ",FALSE
-"268","Thalassiosira _sp.","ID00318","ID00375",0.351776116576746,"ID00375",0.55545009928071,"ID00375",0.718479251070709,0.99,0.992,0.514,"Thalassiosira ","Guinardia ",FALSE,"Guinardia ",FALSE,"Guinardia ",FALSE
-"269","Thalassiosira _sp.","ID00319","ID00376",0.363658070209395,"ID00372",0.55147705194342,"ID00376",0.83509318364065,0.734,0.838,0.436,"Thalassiosira ","Thalassiosira ",TRUE,"Thalassiosira ",TRUE,"Guinardia ",FALSE
-"270","Thalassiosira _sp.","ID00334","ID00354",0.298606103110377,"ID00305",0.471723919727694,"ID00305",0.670008651721966,0.924,0.932,0.442,"Thalassiosira ","Guinardia ",FALSE,"Guinardia ",FALSE,"Guinardia ",FALSE
-"271","Thalassiosira _sp.","ID00376","ID00319",0.363658070209395,"ID00319",0.494097798960029,"ID00319",0.83509318364065,0.996,0.748,0.898,"Thalassiosira ","Thalassiosira ",TRUE,"Thalassiosira ",TRUE,"Thalassiosira ",TRUE
-"272","Thalassiosira _sp.","ID00327","ID00353",0.175807630329911,"ID00313",0.325587742568084,"ID00153",0.675163948698486,0.416,0.134,0.542,"Thalassiosira ","Chaetoceros",FALSE,"Guinardia ",FALSE,"Rhizosolenia",FALSE
-"273","Thalassiosira _sp.","ID00328","ID00329",0.373019795575179,"ID00329",0.639036540781773,"ID00329",0.932074298104414,0.988,0.956,0.438,"Thalassiosira ","Thalassiosira ",TRUE,"Thalassiosira ",TRUE,"Thalassiosira ",TRUE
-"274","Thalassiosira _sp.","ID00329","ID00328",0.373019795575179,"ID00328",0.639036540781773,"ID00328",0.932074298104414,0.752,0.934,0.394,"Thalassiosira ","Thalassiosira ",TRUE,"Thalassiosira ",TRUE,"Thalassiosira ",TRUE
-"275","Thalassiosira _sp.","ID00330","ID00328",0.363517884078115,"ID00328",0.608665907071525,"ID00328",0.808235990639848,1,0.962,0.394,"Thalassiosira ","Thalassiosira ",TRUE,"Thalassiosira ",TRUE,"Thalassiosira ",TRUE
+real.identity,ID,sample.eu,sample.eu.val,sample.ieu,sample.ieu.val,sample.cos,sample.cos.val,bt.genus.eu.score,bt.genus.ieu.score,bt.genus.cos.score,reference,genus.cos,hits.cos,genus.eu,hits.eu,genus.ieu,hits.ieu
+Ceratium_sp.,ID00232,ID00053,0.164058056,ID00238,0.465937386,ID00237,0.812234574,0.462,0.722,0.754,Ceratium,Ceratium,TRUE,Coscinodiscus ,FALSE,Ceratium,TRUE
+Ceratium_sp.,ID00233,ID00234,0.221104784,ID00234,0.711089466,ID00234,0.975346064,0.872,0.95,0.686,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00234,ID00236,0.273810826,ID00236,0.807969128,ID00236,0.983116021,0.992,0.928,0.7,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00235,ID00233,0.130951698,ID00238,0.250806503,ID00232,0.509398806,0.906,0.844,0.87,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00236,ID00234,0.273810826,ID00300,0.832476402,ID00234,0.983116021,0.738,0.728,0.59,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Guinardia ,FALSE
+Ceratium_sp.,ID00237,ID00242,0.174757532,ID00300,0.71038374,ID00300,0.968595409,0.548,0.516,0.588,Ceratium,Guinardia ,FALSE,Ceratium,TRUE,Guinardia ,FALSE
+Ceratium_sp.,ID00238,ID00242,0.238158973,ID00234,0.605009339,ID00233,0.910895085,1,0.958,0.92,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00239,ID00658,0.117328606,ID00055,0.185577694,ID00240,0.407663041,0.776,0.518,0.71,Ceratium,Ceratium,TRUE,Ditylum ,FALSE,Coscinodiscus ,FALSE
+Ceratium_sp.,ID00240,ID00242,0.243688623,ID00242,0.619823624,ID00242,0.900910594,0.694,0.972,0.986,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00241,ID00238,0.141041371,ID00240,0.440980181,ID00242,0.876475972,0.868,0.932,0.696,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00242,ID00240,0.243688623,ID00268,0.626317355,ID00268,0.93424038,0.972,0.522,0.65,Ceratium,Ditylum ,FALSE,Ceratium,TRUE,Ditylum ,FALSE
+Ceratium_sp.,ID00582,ID00588,0.29566083,ID00588,0.49863674,ID00591,0.824098966,0.352,0.552,0.794,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00583,ID00585,0.337660831,ID00585,0.536101672,ID00590,0.803474601,0.776,0.846,0.774,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00584,ID00590,0.285053305,ID00590,0.514744228,ID00595,0.894911957,0.54,0.562,0.504,Ceratium,Coscinodiscus ,FALSE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00585,ID00583,0.337660831,ID00591,0.600411646,ID00593,0.880548592,0.96,1,0.87,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00586,ID00587,0.616219238,ID00587,0.638125597,ID00587,0.896838185,1,1,1,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00587,ID00586,0.616219238,ID00592,0.704555758,ID00586,0.896838185,1,1,1,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00588,ID00589,0.305705083,ID00594,0.537824472,ID00591,0.879032809,0.728,0.924,0.838,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00589,ID00594,0.360731429,ID00540,0.522225784,ID00590,0.835740688,0.886,0.266,0.792,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ditylum ,FALSE
+Ceratium_sp.,ID00590,ID00540,0.311146908,ID00540,0.555203649,ID00589,0.835740688,0.586,0.328,0.814,Ceratium,Ceratium,TRUE,Ditylum ,FALSE,Ditylum ,FALSE
+Ceratium_sp.,ID00591,ID00594,0.429265295,ID00594,0.686236568,ID00594,0.932978983,0.96,0.994,0.836,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00592,ID00587,0.292973628,ID00587,0.704555758,ID00583,0.794844718,0.916,0.942,0.94,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00593,ID00540,0.260160567,ID00591,0.566186685,ID00591,0.882875703,0.294,0.966,0.918,Ceratium,Ceratium,TRUE,Ditylum ,FALSE,Ceratium,TRUE
+Ceratium_sp.,ID00594,ID00591,0.429265295,ID00591,0.686236568,ID00591,0.932978983,1,1,0.874,Ceratium,Ceratium,TRUE,Ceratium,TRUE,Ceratium,TRUE
+Ceratium_sp.,ID00097,ID00614,0.225151994,ID00641,0.39071928,ID00641,0.656213198,0.57,0.972,0.83,Ceratium,Coscinodiscus ,FALSE,Coscinodiscus ,FALSE,Coscinodiscus ,FALSE
+Ceratium_sp.,ID00098,ID00389,0.163393166,ID00634,0.32966252,ID00097,0.542859959,0.426,0.842,0.608,Ceratium,Ceratium,TRUE,Lauderia,FALSE,Coscinodiscus ,FALSE
+Chaetoceros_diadema,ID00566,ID00571,0.398912909,ID00616,0.570427889,ID00571,0.890365384,0.988,0.33,0.432,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Coscinodiscus ,FALSE
+Chaetoceros_diadema,ID00567,ID00569,0.424548319,ID00571,0.596522319,ID00534,0.871455038,0.99,0.92,0.148,Chaetoceros,Rhizosolenia,FALSE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_diadema,ID00568,ID00572,0.444536614,ID00569,0.68603746,ID00569,0.948782687,0.98,0.982,0.582,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_diadema,ID00569,ID00572,0.475199645,ID00572,0.712585528,ID00568,0.948782687,0.934,0.964,0.528,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_diadema,ID00570,ID00572,0.465629575,ID00572,0.66659382,ID00577,0.931342569,0.994,0.97,0.582,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_diadema,ID00571,ID00567,0.410813419,ID00534,0.60325321,ID00572,0.908871663,0.924,0.172,0.762,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Rhizosolenia,FALSE
+Chaetoceros_diadema,ID00572,ID00569,0.475199645,ID00569,0.712585528,ID00569,0.947547823,0.978,0.938,0.706,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_diadema,ID00573,ID00547,0.34198281,ID00548,0.703577507,ID00548,0.978151748,0.694,0.962,0.348,Chaetoceros,Ditylum ,FALSE,Ditylum ,FALSE,Ditylum ,FALSE
+Chaetoceros_diadema,ID00574,ID00575,0.377581612,ID00575,0.66678476,ID00575,0.954683295,0.994,0.904,0.654,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_diadema,ID00575,ID00574,0.377581612,ID00577,0.672957456,ID00574,0.954683295,0.926,0.98,0.58,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_diadema,ID00576,ID00580,0.408188199,ID00545,0.592053868,ID00673,0.853692629,0.6,0.284,0.164,Chaetoceros,Ditylum ,FALSE,Chaetoceros,TRUE,Ditylum ,FALSE
+Chaetoceros_diadema,ID00577,ID00572,0.397567481,ID00575,0.672957456,ID00574,0.943367095,0.962,0.994,0.656,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_diadema,ID00578,ID00682,0.088171819,ID00681,0.441534543,ID00681,0.865329561,0.282,0.656,0.672,Chaetoceros,Pleurosigma,FALSE,Pleurosigma,FALSE,Pleurosigma,FALSE
+Chaetoceros_diadema,ID00579,ID00572,0.394099759,ID00535,0.639860702,ID00572,0.912558209,0.822,0.856,0.508,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Rhizosolenia,FALSE
+Chaetoceros_diadema,ID00580,ID00576,0.408188199,ID00576,0.563927529,ID00579,0.839154665,0.998,0.87,0.666,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_diadema,ID00581,ID00673,0.340823455,ID00602,0.526050429,ID00602,0.782298118,0.802,0.876,0.756,Chaetoceros,Coscinodiscus ,FALSE,Ditylum ,FALSE,Coscinodiscus ,FALSE
+Chaetoceros_didymus,ID00086,ID00092,0.319940705,ID00089,0.610564977,ID00089,0.907916804,1,1,0.972,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_didymus,ID00087,ID00089,0.305651011,ID00089,0.573968394,ID00089,0.872677938,1,1,0.976,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_didymus,ID00088,ID00089,0.37590876,ID00089,0.656167446,ID00089,0.905490675,1,0.996,0.866,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_didymus,ID00089,ID00090,0.465350675,ID00090,0.699975342,ID00090,0.942673409,1,1,0.984,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_didymus,ID00090,ID00089,0.465350675,ID00089,0.699975342,ID00089,0.942673409,1,1,0.968,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_didymus,ID00091,ID00092,0.455218214,ID00092,0.604248392,ID00092,0.882571148,1,1,0.996,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_didymus,ID00092,ID00091,0.455218214,ID00089,0.616897535,ID00089,0.899923346,1,1,0.99,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_didymus,ID00093,ID00094,0.44137725,ID00094,0.687438905,ID00094,0.917800687,1,1,1,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_didymus,ID00094,ID00093,0.44137725,ID00093,0.687438905,ID00093,0.917800687,1,1,0.99,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00153,ID00052,0.178932079,ID00327,0.316598606,ID00327,0.675163949,0.85,0.532,0.556,Chaetoceros,Thalassiosira ,FALSE,Coscinodiscus ,FALSE,Thalassiosira ,FALSE
+Chaetoceros_sp.,ID00154,ID00155,0.142857143,ID00155,0.614261168,ID00155,0.783087908,0.742,0.742,0.742,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00155,ID00154,0.142857143,ID00154,0.614261168,ID00154,0.783087908,0.514,0.568,0.63,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00157,ID00159,0.376609154,ID00158,0.676084057,ID00159,0.927791905,1,1,0.966,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00158,ID00159,0.359817945,ID00157,0.676084057,ID00157,0.921670449,1,0.998,0.958,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00159,ID00157,0.376609154,ID00157,0.647260972,ID00157,0.927791905,1,1,0.94,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00160,ID00161,0.31592874,ID00161,0.620876163,ID00161,0.913148364,1,1,0.898,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00161,ID00160,0.31592874,ID00160,0.620876163,ID00162,0.925400352,1,1,0.926,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00162,ID00160,0.310939109,ID00160,0.588405981,ID00161,0.925400352,1,0.954,0.71,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00163,ID00164,0.283342084,ID00161,0.55669925,ID00161,0.88097333,1,0.998,0.884,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00164,ID00165,0.308880273,ID00165,0.585339072,ID00165,0.919043162,1,1,0.982,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00165,ID00166,0.323870222,ID00166,0.658407616,ID00166,0.935333681,1,1,0.994,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00166,ID00165,0.323870222,ID00165,0.658407616,ID00165,0.935333681,1,1,0.998,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00202,ID00207,0.151548905,ID00203,0.2752825,ID00389,0.51217028,0.684,0.41,0.134,Chaetoceros,Lauderia,FALSE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00203,ID00204,0.214957952,ID00204,0.531606333,ID00204,0.872112371,0.95,0.85,0.704,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00204,ID00207,0.29626096,ID00207,0.547648715,ID00203,0.872112371,0.994,1,0.944,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00205,ID00207,0.228925858,ID00207,0.491504181,ID00207,0.81599782,0.994,0.83,0.59,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00206,ID00209,0.169554974,ID00164,0.404487687,ID00208,0.733643644,0.956,1,0.992,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00207,ID00204,0.29626096,ID00204,0.547648715,ID00204,0.839820881,0.998,0.994,0.906,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00208,ID00163,0.140758518,ID00209,0.537939923,ID00209,0.875365326,0.97,0.892,0.712,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00209,ID00207,0.173882854,ID00208,0.537939923,ID00208,0.875365326,0.924,0.732,0.728,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00549,ID00552,0.482823803,ID00552,0.748914925,ID00551,0.967384002,1,1,0.846,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00550,ID00552,0.44714568,ID00552,0.736399397,ID00551,0.966957467,1,1,0.884,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00551,ID00552,0.487156537,ID00550,0.731374317,ID00552,0.970635141,1,1,0.876,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00552,ID00551,0.487156537,ID00549,0.748914925,ID00551,0.970635141,1,0.996,0.75,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00553,ID00555,0.344715803,ID00555,0.657515902,ID00559,0.961359895,1,1,0.78,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00554,ID00556,0.434784339,ID00556,0.721769623,ID00556,0.963127498,1,1,0.646,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00555,ID00554,0.397630013,ID00553,0.657515902,ID00553,0.946920887,1,1,0.79,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00556,ID00561,0.515537002,ID00562,0.746376746,ID00562,0.973503437,1,1,0.63,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00557,ID00561,0.432324587,ID00563,0.668182858,ID00556,0.959360987,1,1,0.75,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00558,ID00561,0.428677088,ID00561,0.658143538,ID00557,0.947391816,1,1,0.73,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00559,ID00560,0.437705567,ID00560,0.755103465,ID00560,0.98786674,1,1,0.804,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00560,ID00559,0.437705567,ID00559,0.755103465,ID00559,0.98786674,1,1,0.886,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00561,ID00556,0.515537002,ID00556,0.702996365,ID00562,0.949424587,1,0.998,0.678,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00562,ID00556,0.476916355,ID00556,0.746376746,ID00556,0.973503437,1,1,0.698,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00563,ID00562,0.42215939,ID00565,0.735430948,ID00565,0.984429146,1,1,0.788,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00564,ID00565,0.435613843,ID00559,0.72048223,ID00559,0.980413242,1,1,0.848,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Chaetoceros_sp.,ID00565,ID00564,0.435613843,ID00563,0.735430948,ID00563,0.984429146,1,1,0.732,Chaetoceros,Chaetoceros,TRUE,Chaetoceros,TRUE,Chaetoceros,TRUE
+Coscinodiscus _granii,ID00055,ID00688,0.193930626,ID00056,0.415573994,ID00056,0.682902826,0.58,0.718,0.678,Coscinodiscus ,Coscinodiscus ,TRUE,Pleurosigma,FALSE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00056,ID00057,0.266608225,ID00057,0.618753382,ID00057,0.902029006,1,0.998,0.774,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00057,ID00056,0.266608225,ID00056,0.618753382,ID00056,0.902029006,0.958,0.992,0.784,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00595,ID00597,0.376960498,ID00596,0.683070237,ID00596,0.961412506,0.908,0.992,0.632,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00596,ID00609,0.432279323,ID00595,0.683070237,ID00595,0.961412506,1,1,0.774,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00597,ID00610,0.523640414,ID00611,0.778320114,ID00610,0.969541703,0.816,1,0.698,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00598,ID00612,0.485727791,ID00599,0.719200679,ID00599,0.956870743,0.994,1,0.876,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00599,ID00600,0.542779182,ID00612,0.748923229,ID00601,0.96661862,0.976,1,0.92,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00600,ID00599,0.542779182,ID00612,0.739726285,ID00612,0.961568704,0.998,1,0.912,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00601,ID00603,0.557870947,ID00603,0.815011607,ID00603,0.978221679,0.998,1,0.88,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00602,ID00532,0.411845782,ID00532,0.616124843,ID00532,0.809578424,0.79,0.784,0.23,Coscinodiscus ,Rhizosolenia,FALSE,Rhizosolenia,FALSE,Rhizosolenia,FALSE
+Coscinodiscus _granii,ID00603,ID00601,0.557870947,ID00601,0.815011607,ID00601,0.978221679,1,0.998,0.89,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00604,ID00601,0.511562442,ID00601,0.786878818,ID00601,0.977417042,1,1,0.904,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00605,ID00603,0.525961038,ID00607,0.750191014,ID00603,0.958978855,1,1,0.934,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00606,ID00607,0.506853354,ID00605,0.738953105,ID00605,0.946912827,0.99,0.998,0.868,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00607,ID00606,0.506853354,ID00605,0.750191014,ID00604,0.961239323,0.998,1,0.946,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00608,ID00607,0.44581341,ID00607,0.677035979,ID00607,0.857262174,0.998,0.998,0.854,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00609,ID00610,0.529844243,ID00610,0.746484684,ID00610,0.961058279,0.986,0.982,0.734,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00610,ID00609,0.529844243,ID00611,0.793094518,ID00611,0.979333126,0.974,0.984,0.662,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00611,ID00597,0.515907195,ID00610,0.793094518,ID00610,0.979333126,0.842,0.994,0.706,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00612,ID00604,0.495332884,ID00599,0.748923229,ID00600,0.961568704,1,0.998,0.872,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00051,ID00012,0.120889212,ID00012,0.177904382,ID00055,0.282702071,0.628,0.888,0.642,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00052,ID00267,0.209445155,ID00054,0.512582814,ID00054,0.872079123,0.392,0.196,0.422,Coscinodiscus ,Coscinodiscus ,TRUE,Ditylum ,FALSE,Coscinodiscus ,TRUE
+Coscinodiscus _granii,ID00053,ID00390,0.231592266,ID00390,0.503963885,ID00390,0.825237137,0.488,0.818,0.578,Coscinodiscus ,Lauderia,FALSE,Lauderia,FALSE,Lauderia,FALSE
+Coscinodiscus _granii,ID00054,ID00263,0.216684925,ID00052,0.512582814,ID00052,0.872079123,0.418,0.16,0.312,Coscinodiscus ,Coscinodiscus ,TRUE,Pleurosigma,FALSE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00027,ID00029,0.194768744,ID00029,0.613478661,ID00029,0.935004335,0.998,0.972,0.704,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00028,ID00029,0.214858075,ID00029,0.436231449,ID00013,0.688785571,0.996,1,0.962,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00029,ID00028,0.214858075,ID00027,0.613478661,ID00027,0.935004335,0.998,0.998,0.744,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00629,ID00630,0.376681143,ID00630,0.631474796,ID00630,0.895403145,1,1,0.89,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00630,ID00639,0.49514516,ID00633,0.759371812,ID00639,0.973181292,1,1,0.852,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00631,ID00632,0.5448875,ID00632,0.791849005,ID00632,0.983165255,1,1,0.676,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00632,ID00631,0.5448875,ID00631,0.791849005,ID00631,0.983165255,1,1,0.824,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00633,ID00630,0.489559344,ID00630,0.759371812,ID00639,0.953712623,1,1,0.888,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00634,ID00635,0.512556321,ID00635,0.78854033,ID00635,0.965514958,1,1,0.81,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00635,ID00634,0.512556321,ID00634,0.78854033,ID00634,0.965514958,1,1,0.762,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00636,ID00631,0.518432731,ID00630,0.750825927,ID00632,0.968603566,1,1,0.87,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00637,ID00638,0.561608363,ID00638,0.773053183,ID00638,0.937423202,1,1,0.738,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00638,ID00637,0.561608363,ID00637,0.773053183,ID00640,0.968480779,0.994,0.958,0.884,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00639,ID00630,0.49514516,ID00630,0.757797787,ID00630,0.973181292,1,1,0.856,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00640,ID00638,0.551132347,ID00638,0.771654255,ID00638,0.968480779,1,1,0.792,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _radiatus,ID00641,ID00627,0.417502457,ID00627,0.626699568,ID00635,0.842365669,1,1,0.564,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00613,ID00616,0.426364054,ID00627,0.646694501,ID00623,0.915644787,0.978,0.946,0.804,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00614,ID00626,0.384172123,ID00639,0.61402543,ID00627,0.923914068,0.596,0.92,0.72,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00615,ID00616,0.407461049,ID00626,0.639712035,ID00616,0.932906948,0.826,0.512,0.684,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00616,ID00628,0.431924538,ID00613,0.642448572,ID00615,0.932906948,0.774,0.554,0.594,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00617,ID00619,0.2858239,ID00619,0.5802861,ID00619,0.910093798,1,1,0.964,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00618,ID00536,0.377351717,ID00640,0.60186222,ID00620,0.886323914,0.584,0.452,0.426,Coscinodiscus ,Coscinodiscus ,TRUE,Rhizosolenia,FALSE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00619,ID00642,0.315143115,ID00617,0.5802861,ID00617,0.910093798,1,1,0.908,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00620,ID00530,0.469916159,ID00527,0.744009293,ID00527,0.968025763,0.978,0.938,0.43,Coscinodiscus ,Rhizosolenia,FALSE,Rhizosolenia,FALSE,Rhizosolenia,FALSE
+Coscinodiscus _sp.,ID00621,ID00616,0.389279394,ID00613,0.590048304,ID00622,0.911282325,0.998,0.902,0.894,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00622,ID00626,0.448231245,ID00613,0.608776382,ID00621,0.911282325,0.994,0.858,0.842,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00623,ID00627,0.386604783,ID00628,0.681150846,ID00628,0.92396742,0.972,0.962,0.81,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00624,ID00615,0.343766275,ID00626,0.619564555,ID00626,0.929475359,0.864,0.81,0.76,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00625,ID00624,0.295431771,ID00547,0.615810158,ID00547,0.950455136,0.448,0.638,0.186,Coscinodiscus ,Ditylum ,FALSE,Coscinodiscus ,TRUE,Ditylum ,FALSE
+Coscinodiscus _sp.,ID00626,ID00622,0.448231245,ID00615,0.639712035,ID00624,0.929475359,1,0.976,0.792,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00627,ID00641,0.417502457,ID00613,0.646694501,ID00614,0.923914068,0.956,0.996,0.864,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _sp.,ID00628,ID00616,0.431924538,ID00623,0.681150846,ID00623,0.92396742,0.922,0.944,0.78,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00011,ID00642,0.220773363,ID00028,0.373249953,ID00028,0.670781319,1,0.958,0.86,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00012,ID00643,0.30194506,ID00643,0.506856986,ID00266,0.902429024,1,0.664,0.314,Coscinodiscus ,Ditylum ,FALSE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00013,ID00636,0.238056544,ID00012,0.434055982,ID00029,0.805854691,0.954,0.84,0.73,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00642,ID00650,0.535861359,ID00650,0.766773883,ID00650,0.987046779,1,1,0.726,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00643,ID00645,0.478385704,ID00650,0.636196164,ID00646,0.934357927,1,1,0.73,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00644,ID00649,0.615581321,ID00649,0.753419009,ID00649,0.953902827,1,1,0.904,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00645,ID00643,0.478385704,ID00643,0.468990872,ID00654,0.653625565,1,0.97,0.818,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00646,ID00647,0.484405565,ID00650,0.675596878,ID00655,0.96271761,1,1,0.55,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00647,ID00648,0.533959925,ID00648,0.745810876,ID00648,0.97236416,1,1,0.706,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00648,ID00651,0.556573708,ID00651,0.7655992,ID00647,0.97236416,1,1,0.636,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00649,ID00644,0.615581321,ID00644,0.753419009,ID00644,0.953902827,1,1,0.986,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00650,ID00642,0.535861359,ID00642,0.766773883,ID00642,0.987046779,1,1,0.788,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00651,ID00648,0.556573708,ID00648,0.7655992,ID00642,0.969154481,1,1,0.688,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00652,ID00655,0.498472149,ID00655,0.600056589,ID00650,0.921975228,1,0.894,0.674,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00653,ID00655,0.534298899,ID00655,0.666732832,ID00650,0.965171615,1,0.854,0.702,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00654,ID00643,0.442562639,ID00649,0.497494737,ID00649,0.799282002,1,0.99,0.66,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Coscinodiscus _wailesii,ID00655,ID00653,0.534298899,ID00653,0.666732832,ID00646,0.96271761,1,0.95,0.43,Coscinodiscus ,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE,Coscinodiscus ,TRUE
+Ditylum _sp.,ID00266,ID00652,0.189673602,ID00548,0.493221743,ID00392,0.9164625,1,0.468,0.41,Ditylum ,Rhizosolenia,FALSE,Coscinodiscus ,FALSE,Ditylum ,TRUE
+Ditylum _sp.,ID00267,ID00052,0.209445155,ID00264,0.648439015,ID00264,0.915492117,0.67,0.536,0.288,Ditylum ,Pleurosigma,FALSE,Coscinodiscus ,FALSE,Pleurosigma,FALSE
+Ditylum _sp.,ID00268,ID00263,0.125904267,ID00242,0.626317355,ID00242,0.93424038,0.694,0.424,0.512,Ditylum ,Ceratium,FALSE,Pleurosigma,FALSE,Ceratium,FALSE
+Ditylum _sp.,ID00265,ID00538,0.221161274,ID00663,0.40348469,ID00663,0.721757165,0.456,0.208,0.24,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00538,ID00539,0.496262434,ID00542,0.723243507,ID00543,0.934194974,0.998,0.848,0.392,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00539,ID00538,0.496262434,ID00611,0.719149715,ID00611,0.95136291,0.536,0.688,0.288,Ditylum ,Coscinodiscus ,FALSE,Ditylum ,TRUE,Coscinodiscus ,FALSE
+Ditylum _sp.,ID00540,ID00543,0.341652977,ID00539,0.613644628,ID00539,0.926995032,0.726,0.772,0.242,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00541,ID00664,1,ID00664,1,ID00664,1,1,1,0.486,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00542,ID00665,1,ID00665,1,ID00665,1,1,1,0.484,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00543,ID00666,1,ID00666,1,ID00666,1,1,1,0.524,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00544,ID00667,1,ID00667,1,ID00667,1,1,1,0.484,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00545,ID00668,1,ID00668,1,ID00668,1,1,1,0.438,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00546,ID00669,1,ID00669,1,ID00669,1,1,1,0.704,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00547,ID00670,1,ID00670,1,ID00670,1,1,1,0.482,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00548,ID00671,1,ID00671,1,ID00671,1,1,1,0.46,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00656,ID00663,0.33306785,ID00662,0.659257977,ID00662,0.949200008,1,0.996,0.614,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00657,ID00659,0.469885703,ID00659,0.751044895,ID00659,0.967306478,1,1,0.73,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00658,ID00662,0.365815347,ID00659,0.658411266,ID00659,0.944319989,0.998,1,0.774,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00659,ID00657,0.469885703,ID00657,0.751044895,ID00657,0.967306478,1,1,0.814,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00660,ID00659,0.462660215,ID00659,0.715819,ID00657,0.945982623,1,1,0.756,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00661,ID00660,0.433578528,ID00660,0.714050265,ID00660,0.920607508,1,1,0.558,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00662,ID00663,0.514015458,ID00663,0.72057583,ID00663,0.964922995,1,0.998,0.708,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00663,ID00662,0.514015458,ID00662,0.72057583,ID00662,0.964922995,1,0.978,0.624,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00664,ID00541,1,ID00541,1,ID00541,1,1,1,0.518,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00665,ID00542,1,ID00542,1,ID00542,1,1,1,0.424,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00666,ID00543,1,ID00543,1,ID00543,1,1,1,0.498,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00667,ID00544,1,ID00544,1,ID00544,1,1,1,0.462,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00668,ID00545,1,ID00545,1,ID00545,1,1,1,0.416,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00669,ID00546,1,ID00546,1,ID00546,1,1,1,0.696,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00670,ID00547,1,ID00547,1,ID00547,1,1,1,0.468,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00671,ID00548,1,ID00548,1,ID00548,1,1,1,0.518,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00672,ID00547,0.393194454,ID00547,0.739721615,ID00547,0.979557956,0.994,0.996,0.454,Ditylum ,Ditylum ,TRUE,Ditylum ,TRUE,Ditylum ,TRUE
+Ditylum _sp.,ID00673,ID00545,0.375451618,ID00648,0.592007458,ID00648,0.911759597,0.634,0.352,0.396,Ditylum ,Coscinodiscus ,FALSE,Ditylum ,TRUE,Coscinodiscus ,FALSE
+Guinardia _sp.,ID00342,ID00354,0.427154531,ID00354,0.646028766,ID00354,0.883926605,0.998,0.994,0.844,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00345,ID00392,0.414936995,ID00392,0.677727225,ID00392,0.966672284,1,0.972,0.57,Guinardia ,Rhizosolenia,FALSE,Rhizosolenia,FALSE,Rhizosolenia,FALSE
+Guinardia _sp.,ID00346,ID00371,0.427175631,ID00375,0.595727481,ID00305,0.850682115,1,1,0.936,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00295,ID00375,0.370163794,ID00375,0.618468168,ID00375,0.864864116,0.88,0.996,0.662,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00349,ID00350,0.404111726,ID00350,0.581990434,ID00350,0.90118122,0.646,0.668,0.808,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00350,ID00317,0.452513606,ID00366,0.676377471,ID00349,0.90118122,0.994,1,0.82,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00296,ID00645,0.276130635,ID00645,0.345352714,ID00056,0.611843522,0.814,0.926,0.572,Guinardia ,Coscinodiscus ,FALSE,Coscinodiscus ,FALSE,Coscinodiscus ,FALSE
+Guinardia _sp.,ID00297,ID00645,0.366781194,ID00645,0.359788213,ID00342,0.677187793,1,0.682,0.486,Guinardia ,Guinardia ,TRUE,Coscinodiscus ,FALSE,Coscinodiscus ,FALSE
+Guinardia _sp.,ID00300,ID00236,0.2,ID00236,0.832476402,ID00236,0.978573205,0.736,0.702,0.702,Guinardia ,Ceratium,FALSE,Ceratium,FALSE,Ceratium,FALSE
+Guinardia _sp.,ID00353,ID00358,0.395627968,ID00358,0.690498436,ID00358,0.954466511,1,1,0.808,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00354,ID00342,0.427154531,ID00342,0.646028766,ID00357,0.888649388,1,1,0.948,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00357,ID00313,0.376474891,ID00354,0.618469411,ID00354,0.888649388,0.622,0.844,0.778,Guinardia ,Guinardia ,TRUE,Rhizosolenia,FALSE,Guinardia ,TRUE
+Guinardia _sp.,ID00358,ID00353,0.395627968,ID00353,0.690498436,ID00353,0.954466511,1,1,0.816,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00305,ID00354,0.359411637,ID00354,0.612442894,ID00354,0.851391621,0.954,0.984,0.844,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00306,ID00371,0.400240519,ID00381,0.596426444,ID00337,0.853646973,0.472,0.664,0.44,Guinardia ,Pleurosigma,FALSE,Guinardia ,TRUE,Lauderia,FALSE
+Guinardia _sp.,ID00366,ID00314,0.543869792,ID00314,0.75987318,ID00314,0.946391942,1,1,0.69,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00309,ID00314,0.402776176,ID00314,0.604323404,ID00375,0.805541876,0.722,0.77,0.838,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00368,ID00372,0.239644981,ID00318,0.359114994,ID00318,0.543055359,0.33,0.732,0.56,Guinardia ,Thalassiosira ,FALSE,Guinardia ,TRUE,Thalassiosira ,FALSE
+Guinardia _sp.,ID00371,ID00372,0.474013529,ID00372,0.634690415,ID00372,0.884648713,0.988,1,0.958,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00372,ID00371,0.474013529,ID00371,0.634690415,ID00371,0.884648713,1,0.996,0.808,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00375,ID00311,0.4152623,ID00317,0.680856354,ID00317,0.905248661,0.99,1,0.838,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00311,ID00314,0.460124536,ID00314,0.730149323,ID00314,0.91085099,0.998,1,0.68,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00314,ID00366,0.543869792,ID00366,0.75987318,ID00366,0.946391942,1,1,0.904,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Guinardia _sp.,ID00317,ID00350,0.452513606,ID00375,0.680856354,ID00375,0.905248661,1,1,0.84,Guinardia ,Guinardia ,TRUE,Guinardia ,TRUE,Guinardia ,TRUE
+Lauderia_sp.,ID00381,ID00306,0.391688621,ID00306,0.596426444,ID00306,0.815911491,0.994,1,0.66,Lauderia,Guinardia ,FALSE,Guinardia ,FALSE,Guinardia ,FALSE
+Lauderia_sp.,ID00388,ID00264,0.341057575,ID00263,0.516428614,ID00054,0.865015526,0.844,0.576,0.628,Lauderia,Coscinodiscus ,FALSE,Pleurosigma,FALSE,Pleurosigma,FALSE
+Lauderia_sp.,ID00389,ID00680,0.284406656,ID00261,0.556378557,ID00261,0.811207352,0.984,0.974,0.622,Lauderia,Pleurosigma,FALSE,Pleurosigma,FALSE,Pleurosigma,FALSE
+Lauderia_sp.,ID00390,ID00261,0.283453744,ID00391,0.552594531,ID00391,0.838171165,0.536,0.656,0.436,Lauderia,Lauderia,TRUE,Pleurosigma,FALSE,Lauderia,TRUE
+Lauderia_sp.,ID00391,ID00390,0.270834297,ID00390,0.552594531,ID00390,0.838171165,0.926,0.86,0.526,Lauderia,Lauderia,TRUE,Lauderia,TRUE,Lauderia,TRUE
+Pleurosigma_sp.,ID00261,ID00262,0.490108783,ID00262,0.716466452,ID00262,0.94193137,0.994,1,0.536,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00262,ID00261,0.490108783,ID00261,0.716466452,ID00261,0.94193137,0.988,0.998,0.524,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00263,ID00388,0.280504064,ID00264,0.742277784,ID00264,0.972857165,0.482,0.344,0.306,Pleurosigma,Pleurosigma,TRUE,Lauderia,FALSE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00264,ID00388,0.341057575,ID00263,0.742277784,ID00263,0.972857165,0.738,0.388,0.3,Pleurosigma,Pleurosigma,TRUE,Lauderia,FALSE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00361,ID00353,0.223265268,ID00327,0.280935473,ID00654,0.354919458,0.622,0.404,0.544,Pleurosigma,Coscinodiscus ,FALSE,Guinardia ,FALSE,Thalassiosira ,FALSE
+Pleurosigma_sp.,ID00337,ID00371,0.405952507,ID00306,0.57626466,ID00306,0.853646973,1,0.914,0.516,Pleurosigma,Guinardia ,FALSE,Guinardia ,FALSE,Guinardia ,FALSE
+Pleurosigma_sp.,ID00674,ID00676,0.535116556,ID00675,0.765319429,ID00675,0.957452565,1,1,0.886,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00675,ID00674,0.529724341,ID00674,0.765319429,ID00674,0.957452565,1,1,0.774,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00676,ID00674,0.535116556,ID00674,0.722981983,ID00680,0.948296128,1,1,0.83,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00677,ID00599,0.459743134,ID00679,0.69029845,ID00679,0.94146894,0.534,0.692,0.452,Pleurosigma,Pleurosigma,TRUE,Coscinodiscus ,FALSE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00678,ID00680,0.503147762,ID00680,0.769697928,ID00680,0.966137143,1,1,0.964,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00679,ID00677,0.451634038,ID00677,0.69029845,ID00677,0.94146894,0.674,0.494,0.384,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00680,ID00676,0.521853781,ID00678,0.769697928,ID00678,0.966137143,1,1,0.922,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00681,ID00682,0.224040425,ID00682,0.551558218,ID00682,0.888749824,0.882,0.798,0.492,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00682,ID00681,0.224040425,ID00681,0.551558218,ID00681,0.888749824,0.932,0.844,0.81,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00683,ID00680,0.450118662,ID00680,0.650956082,ID00686,0.878878461,0.828,0.782,0.606,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00684,ID00686,0.49833063,ID00686,0.723525876,ID00686,0.934536154,1,1,0.746,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00685,ID00686,0.459949143,ID00684,0.697078677,ID00686,0.94186802,0.91,0.922,0.552,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00686,ID00684,0.49833063,ID00684,0.723525876,ID00685,0.94186802,1,0.994,0.552,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00687,ID00688,0.615082666,ID00688,0.740372835,ID00688,0.968325709,1,1,0.724,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00688,ID00687,0.615082666,ID00687,0.740372835,ID00687,0.968325709,1,1,0.786,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00689,ID00688,0.53061831,ID00680,0.723324636,ID00680,0.936158602,0.998,0.958,0.736,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Pleurosigma_sp.,ID00690,ID00687,0.506251974,ID00687,0.705957824,ID00687,0.92279649,0.976,0.954,0.606,Pleurosigma,Pleurosigma,TRUE,Pleurosigma,TRUE,Pleurosigma,TRUE
+Rhizosolenia_sp.,ID00523,ID00526,0.426828946,ID00526,0.69645019,ID00526,0.907569799,0.7,0.684,0.342,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00524,ID00526,0.40939927,ID00526,0.696415821,ID00526,0.924856698,0.976,0.932,0.224,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00525,ID00528,0.570076041,ID00528,0.768729149,ID00531,0.974082499,1,0.994,0.526,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00526,ID00527,0.556175343,ID00527,0.745670483,ID00527,0.949194757,0.998,0.778,0.408,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00527,ID00526,0.556175343,ID00529,0.759445292,ID00525,0.971854671,1,0.858,0.464,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00528,ID00525,0.570076041,ID00525,0.768729149,ID00531,0.968619858,1,0.996,0.316,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00529,ID00527,0.50545654,ID00527,0.759445292,ID00530,0.976244535,0.996,0.976,0.562,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00530,ID00525,0.505810665,ID00533,0.759290779,ID00529,0.976244535,0.936,1,0.488,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00531,ID00533,0.458925434,ID00533,0.762024061,ID00525,0.974082499,0.692,0.996,0.414,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00532,ID00534,0.430886939,ID00534,0.684355335,ID00545,0.932179913,0.772,0.616,0.154,Rhizosolenia,Ditylum ,FALSE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00533,ID00531,0.458925434,ID00531,0.762024061,ID00531,0.971142313,0.786,0.998,0.346,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00534,ID00537,0.436600164,ID00532,0.684355335,ID00533,0.938545921,0.804,0.87,0.418,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00535,ID00526,0.457853815,ID00527,0.750507319,ID00533,0.965553709,0.998,1,0.42,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00536,ID00537,0.55077742,ID00537,0.766751523,ID00537,0.953476166,0.924,0.952,0.338,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00537,ID00536,0.55077742,ID00536,0.766751523,ID00536,0.953476166,1,0.994,0.468,Rhizosolenia,Rhizosolenia,TRUE,Rhizosolenia,TRUE,Rhizosolenia,TRUE
+Rhizosolenia_sp.,ID00301,ID00349,0.386460681,ID00349,0.553552088,ID00366,0.845565602,0.99,0.526,0.848,Rhizosolenia,Guinardia ,FALSE,Guinardia ,FALSE,Guinardia ,FALSE
+Rhizosolenia_sp.,ID00362,ID00381,0.275660433,ID00306,0.470708862,ID00306,0.733407317,0.61,0.54,0.266,Rhizosolenia,Guinardia ,FALSE,Lauderia,FALSE,Guinardia ,FALSE
+Rhizosolenia_sp.,ID00313,ID00309,0.394573607,ID00309,0.590587077,ID00311,0.855465598,0.96,0.948,0.802,Rhizosolenia,Guinardia ,FALSE,Guinardia ,FALSE,Guinardia ,FALSE
+Rhizosolenia_sp.,ID00392,ID00345,0.414936995,ID00345,0.677727225,ID00345,0.966672284,1,0.994,0.706,Rhizosolenia,Guinardia ,FALSE,Guinardia ,FALSE,Guinardia ,FALSE
+Thalassiosira _sp.,ID00318,ID00375,0.351776117,ID00375,0.555450099,ID00375,0.718479251,0.99,0.992,0.514,Thalassiosira ,Guinardia ,FALSE,Guinardia ,FALSE,Guinardia ,FALSE
+Thalassiosira _sp.,ID00319,ID00376,0.36365807,ID00372,0.551477052,ID00376,0.835093184,0.734,0.838,0.436,Thalassiosira ,Thalassiosira ,TRUE,Thalassiosira ,TRUE,Guinardia ,FALSE
+Thalassiosira _sp.,ID00334,ID00354,0.298606103,ID00305,0.47172392,ID00305,0.670008652,0.924,0.932,0.442,Thalassiosira ,Guinardia ,FALSE,Guinardia ,FALSE,Guinardia ,FALSE
+Thalassiosira _sp.,ID00376,ID00319,0.36365807,ID00319,0.494097799,ID00319,0.835093184,0.996,0.748,0.898,Thalassiosira ,Thalassiosira ,TRUE,Thalassiosira ,TRUE,Thalassiosira ,TRUE
+Thalassiosira _sp.,ID00327,ID00353,0.17580763,ID00313,0.325587743,ID00153,0.675163949,0.416,0.134,0.542,Thalassiosira ,Chaetoceros,FALSE,Guinardia ,FALSE,Rhizosolenia,FALSE
+Thalassiosira _sp.,ID00328,ID00329,0.373019796,ID00329,0.639036541,ID00329,0.932074298,0.988,0.956,0.438,Thalassiosira ,Thalassiosira ,TRUE,Thalassiosira ,TRUE,Thalassiosira ,TRUE
+Thalassiosira _sp.,ID00329,ID00328,0.373019796,ID00328,0.639036541,ID00328,0.932074298,0.752,0.934,0.394,Thalassiosira ,Thalassiosira ,TRUE,Thalassiosira ,TRUE,Thalassiosira ,TRUE
+Thalassiosira _sp.,ID00330,ID00328,0.363517884,ID00328,0.608665907,ID00328,0.808235991,1,0.962,0.394,Thalassiosira ,Thalassiosira ,TRUE,Thalassiosira ,TRUE,Thalassiosira ,TRUE
