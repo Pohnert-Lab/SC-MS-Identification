@@ -7,6 +7,9 @@ set.seed(123)
 library(caret)
 library(reshape2)
 library(pROC)
+require(devtools)
+library(RCurl)
+
 
 ###############
 ## Functions ##
