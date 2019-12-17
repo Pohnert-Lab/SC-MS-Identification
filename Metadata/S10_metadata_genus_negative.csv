@@ -1,30 +1,30 @@
 ID,Genus,Species,Strain,Sampling site,Sampling date,Analysis date,Polarity,Medium,Strain available
-ID00097,Ceratium,sp.,RCC6811,Norway,9.2017,01.07.2018,negative,f/2,FALSE
-ID00098,Ceratium,sp.,RCC6811,Norway,9.2017,01.07.2018,negative,f/2,FALSE
-ID00232,Ceratium,sp.,RCC6813,Greece,5.2018,05.07.2018,negative,f/2,TRUE
-ID00233,Ceratium,sp.,RCC6813,Greece,5.2018,05.07.2018,negative,f/2,TRUE
-ID00234,Ceratium,sp.,RCC6813,Greece,5.2018,05.07.2018,negative,f/2,TRUE
-ID00235,Ceratium,sp.,RCC6813,Greece,5.2018,05.07.2018,negative,f/2,TRUE
-ID00236,Ceratium,sp.,RCC6813,Greece,5.2018,05.07.2018,negative,f/2,TRUE
-ID00237,Ceratium,sp.,RCC6813,Greece,5.2018,05.07.2018,negative,f/2,TRUE
-ID00238,Ceratium,sp.,RCC6813,Greece,5.2018,05.07.2018,negative,f/2,TRUE
-ID00239,Ceratium,sp.,RCC6813,Greece,5.2018,05.07.2018,negative,f/2,TRUE
-ID00240,Ceratium,sp.,RCC6813,Greece,5.2018,05.07.2018,negative,f/2,TRUE
-ID00241,Ceratium,sp.,RCC6813,Greece,5.2018,05.07.2018,negative,f/2,TRUE
-ID00242,Ceratium,sp.,RCC6813,Greece,5.2018,05.07.2018,negative,f/2,TRUE
-ID00582,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
-ID00583,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
-ID00584,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
-ID00585,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
-ID00586,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
-ID00587,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
-ID00588,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
-ID00589,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
-ID00590,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
-ID00591,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
-ID00592,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
-ID00593,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
-ID00594,Ceratium,sp.,RCC6813,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00097,Ceratium,sp.,Norway2017,Norway,9.2017,01.07.2018,negative,f/2,FALSE
+ID00098,Ceratium,sp.,Norway2017,Norway,9.2017,01.07.2018,negative,f/2,FALSE
+ID00232,Ceratium,sp.,G-P-9-6,Greece,5.2018,05.07.2018,negative,f/2,TRUE
+ID00233,Ceratium,sp.,G-P-9-6,Greece,5.2018,05.07.2018,negative,f/2,TRUE
+ID00234,Ceratium,sp.,G-P-9-6,Greece,5.2018,05.07.2018,negative,f/2,TRUE
+ID00235,Ceratium,sp.,G-P-9-6,Greece,5.2018,05.07.2018,negative,f/2,TRUE
+ID00236,Ceratium,sp.,G-P-9-6,Greece,5.2018,05.07.2018,negative,f/2,TRUE
+ID00237,Ceratium,sp.,G-P-9-6,Greece,5.2018,05.07.2018,negative,f/2,TRUE
+ID00238,Ceratium,sp.,G-P-9-6,Greece,5.2018,05.07.2018,negative,f/2,TRUE
+ID00239,Ceratium,sp.,G-P-9-6,Greece,5.2018,05.07.2018,negative,f/2,TRUE
+ID00240,Ceratium,sp.,G-P-9-6,Greece,5.2018,05.07.2018,negative,f/2,TRUE
+ID00241,Ceratium,sp.,G-P-9-6,Greece,5.2018,05.07.2018,negative,f/2,TRUE
+ID00242,Ceratium,sp.,G-P-9-6,Greece,5.2018,05.07.2018,negative,f/2,TRUE
+ID00582,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00583,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00584,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00585,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00586,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00587,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00588,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00589,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00590,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00591,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00592,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00593,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
+ID00594,Ceratium,sp.,G-P-9-6,Greece,5.2018,14.03.2019,negative,f/2,TRUE
 ID00086,Chaetoceros,didymus,Na20B4,Italy Gulf of Naples,7.2014,05.07.2018,negative,f/2,TRUE
 ID00087,Chaetoceros,didymus,Na20B4,Italy Gulf of Naples,7.2014,05.07.2018,negative,f/2,TRUE
 ID00088,Chaetoceros,didymus,Na20B4,Italy Gulf of Naples,7.2014,05.07.2018,negative,f/2,TRUE
@@ -59,23 +59,23 @@ ID00252,Chaetoceros,cf. wighamii,RCC3008,Denmark,4.201,05.07.2018,negative,f/2,T
 ID00253,Chaetoceros,cf. wighamii,RCC3008,Denmark,4.201,05.07.2018,negative,f/2,TRUE
 ID00254,Chaetoceros,cf. wighamii,RCC3008,Denmark,4.201,05.07.2018,negative,f/2,TRUE
 ID00255,Chaetoceros,cf. wighamii,RCC3008,Denmark,4.201,05.07.2018,negative,f/2,TRUE
-ID00549,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00550,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00551,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00552,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00553,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00554,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00555,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00556,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00557,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00558,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00559,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00560,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00561,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00562,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00563,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00564,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00565,Chaetoceros,sp.,RCC6819,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00549,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00550,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00551,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00552,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00553,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00554,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00555,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00556,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00557,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00558,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00559,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00560,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00561,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00562,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00563,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00564,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00565,Chaetoceros,sp.,R-R3,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
 ID00566,Chaetoceros,diadema,RCC1717,English channel,5.2008,11.03.2019,negative,f/2,TRUE
 ID00567,Chaetoceros,diadema,RCC1717,English channel,5.2008,11.03.2019,negative,f/2,TRUE
 ID00568,Chaetoceros,diadema,RCC1717,English channel,5.2008,11.03.2019,negative,f/2,TRUE
@@ -123,22 +123,22 @@ ID00609,Coscinodiscus ,granii,Helg2016,Helgoland,8.2016,14.03.2019,negative,f/2,
 ID00610,Coscinodiscus ,granii,Helg2016,Helgoland,8.2016,14.03.2019,negative,f/2,TRUE
 ID00611,Coscinodiscus ,granii,Helg2016,Helgoland,8.2016,14.03.2019,negative,f/2,TRUE
 ID00612,Coscinodiscus ,granii,Helg2016,Helgoland,8.2016,14.03.2019,negative,f/2,TRUE
-ID00613,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00614,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00615,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00616,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00617,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00618,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00619,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00620,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00621,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00622,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00623,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00624,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00625,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00626,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00627,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
-ID00628,Coscinodiscus ,sp.,RCC6807,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00613,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00614,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00615,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00616,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00617,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00618,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00619,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00620,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00621,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00622,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00623,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00624,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00625,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00626,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00627,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
+ID00628,Coscinodiscus ,sp.,Norway2017_M2,Norway,9.2017,11.03.2019,negative,f/2,TRUE
 ID00629,Coscinodiscus ,radiatus,Helg2017,Helgoland,8.2017,11.03.2019,negative,f/2,TRUE
 ID00630,Coscinodiscus ,radiatus,Helg2017,Helgoland,8.2017,11.03.2019,negative,f/2,TRUE
 ID00631,Coscinodiscus ,radiatus,Helg2017,Helgoland,8.2017,11.03.2019,negative,f/2,TRUE
@@ -166,39 +166,39 @@ ID00652,Coscinodiscus ,wailesii,Helg2016,Helgoland,8.2016,13.03.2019,negative,f/
 ID00653,Coscinodiscus ,wailesii,Helg2016,Helgoland,8.2016,13.03.2019,negative,f/2,TRUE
 ID00654,Coscinodiscus ,wailesii,Helg2016,Helgoland,8.2016,13.03.2019,negative,f/2,TRUE
 ID00655,Coscinodiscus ,wailesii,Helg2016,Helgoland,8.2016,13.03.2019,negative,f/2,TRUE
-ID00265,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
-ID00266,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
-ID00267,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
-ID00268,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
-ID00538,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00539,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00540,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00541,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00542,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00543,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00544,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00545,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00546,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00547,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00548,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00656,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00657,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00658,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00659,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00660,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00661,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00662,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00663,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00664,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00665,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00666,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00667,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00668,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00669,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00670,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00671,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00672,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00673,Ditylum ,sp.,RCC6821,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00265,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
+ID00266,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
+ID00267,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
+ID00268,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
+ID00538,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00539,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00540,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00541,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00542,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00543,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00544,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00545,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00546,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00547,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00548,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00656,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00657,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00658,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00659,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00660,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00661,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00662,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00663,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00664,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00665,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00666,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00667,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00668,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00669,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00670,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00671,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00672,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00673,Ditylum ,sp.,R-R1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
 ID00295,Guinardia ,sp.,R-R142,Penze Estuary,6.2018,29.06.2018,negative,Penze,FALSE
 ID00296,Guinardia ,sp.,R-R143,Penze Estuary,6.2018,29.06.2018,negative,Penze,FALSE
 ID00297,Guinardia ,sp.,R-R143,Penze Estuary,6.2018,29.06.2018,negative,Penze,FALSE
@@ -228,48 +228,48 @@ ID00388,Lauderia,sp.,R-R4513,Penze Estuary,6.2018,08.07.2018,negative,f/2,FALSE
 ID00389,Lauderia,sp.,R-R4513,Penze Estuary,6.2018,08.07.2018,negative,f/2,FALSE
 ID00390,Lauderia,sp.,R-R4513,Penze Estuary,6.2018,08.07.2018,negative,f/2,FALSE
 ID00391,Lauderia,sp.,R-R4513,Penze Estuary,6.2018,08.07.2018,negative,f/2,FALSE
-ID00261,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
-ID00262,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
-ID00263,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
-ID00264,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
+ID00261,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
+ID00262,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
+ID00263,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
+ID00264,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,07.08.2018,negative,f/2,TRUE
 ID00337,Pleurosigma,sp.,R-R653,Penze Estuary,6.2018,28.06.2018,negative,Penze,FALSE
 ID00361,Pleurosigma,sp.,R-R2510,Penze Estuary,6.2018,28.06.2018,negative,Penze,FALSE
-ID00674,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00675,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00676,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00677,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00678,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00679,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00680,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00681,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00682,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00683,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00684,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00685,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00686,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00687,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00688,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00689,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00690,Pleurosigma,sp.,RCC6814,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00674,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00675,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00676,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00677,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00678,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00679,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00680,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00681,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00682,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00683,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00684,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00685,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00686,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00687,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00688,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00689,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00690,Pleurosigma,sp.,R-PS1,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
 ID00301,Rhizosolenia,sp.,R-R154,Penze Estuary,6.2018,29.06.2018,negative,Penze,FALSE
 ID00313,Rhizosolenia,sp.,R-R154,Penze Estuary,6.2018,29.06.2018,negative,Penze,FALSE
 ID00362,Rhizosolenia,sp.,R-R2511,Penze Estuary,6.2018,28.06.2018,negative,Penze,FALSE
 ID00392,Rhizosolenia,sp.,R-R4518,Penze Estuary,6.2018,28.06.2018,negative,Penze,FALSE
-ID00523,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00524,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00525,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00526,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00527,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00528,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00529,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00530,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00531,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00532,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00533,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00534,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00535,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00536,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
-ID00537,Rhizosolenia,sp.,RCC6817,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00523,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00524,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00525,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00526,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00527,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00528,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00529,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00530,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00531,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00532,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00533,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00534,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00535,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00536,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
+ID00537,Rhizosolenia,sp.,R-R257,Penze Estuary,6.2018,11.03.2019,negative,f/2,TRUE
 ID00318,Thalassiosira ,sp.,R-R451,Penze Estuary,6.2018,29.06.2018,negative,Penze,FALSE
 ID00319,Thalassiosira ,sp.,R-R451,Penze Estuary,6.2018,29.06.2018,negative,Penze,FALSE
 ID00327,Thalassiosira ,sp.,R-R451,Penze Estuary,6.2018,08.07.2018,negative,f/2,FALSE
