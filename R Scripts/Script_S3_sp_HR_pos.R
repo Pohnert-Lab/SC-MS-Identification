@@ -367,7 +367,7 @@ sens.ieu.bt$sensitivity[which(sens.ieu.bt$scores == err.ieu.bt$scores[min(which(
 ## Confusion matrix / Accuracy plots ##
 #######################################
 
-
+confMatrices<-list()
 for (i in c("cos","eu","ieu")){
   
   confmat<-confusionMatrix(data = top1result.df[[paste0("species.",i)]], reference = top1result.df$reference) # Create confusion matrix based on input genera and top predictions from cos/eu/ieu scoring
@@ -404,6 +404,7 @@ for (i in c("cos","eu","ieu")){
   plot (p)
   
    # ggsave(filename = paste0("confmat_positive_",i,".eps"),device = "eps", width = 20, height = 20, units = "cm")
-}
+	confMatrices[[i]] <- confmat
+   }
 
 

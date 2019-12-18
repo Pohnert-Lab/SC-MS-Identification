@@ -395,7 +395,8 @@ for (i in c("cos","eu","ieu")){
     ggtitle(paste("Similarity measure:",i))
   
   plot (p)
-  confMatrices[[i]]<-confmat
+  
   # ggsave(filename = paste0("confmat_positive_",i,".eps"),device = "eps", width = 20, height = 20, units = "cm")
+  confMatrices[[i]]<-confmat
 }
 
