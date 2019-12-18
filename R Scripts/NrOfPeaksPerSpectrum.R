@@ -20,7 +20,7 @@ peaks.df<-subset(peaks.df, !is.na(peaks.df$npeaks)) #Remove spectra that are not
 
 medians<-aggregate(npeaks ~ Genus, peaks.df, median)
 
-# postscript(file = "npeaks_pos_int_genus.eps", family = "Courier") #Create Adobe-readable postscript. Courier can be used without a problem by my Adobe
+# postscript(file = "npeaks_pos_genus.eps", family = "Courier") #Create Adobe-readable postscript. Courier can be used without a problem by my Adobe
 
 ## ggplot2 
 p<- ggplot(peaks.df, aes(Genus, log10(npeaks), fill = Genus)) # left axis fluorescence
@@ -155,7 +155,7 @@ peaks.df<-subset(peaks.df, !is.na(peaks.df$npeaks)) #Remove spectra that are not
 
 medians<-aggregate(npeaks ~ Species, peaks.df, median)
 
-# postscript(file = "npeaks_neg_species.eps", family = "Courier") #Create Adobe-readable postscript. Courier can be used without a problem by my Adobe
+# postscript(file = "npeaks_pos_int_species.eps", family = "Courier") #Create Adobe-readable postscript. Courier can be used without a problem by my Adobe
 
 ## ggplot2 
 p<- ggplot(peaks.df, aes(Species, log10(npeaks), fill = Species)) # left axis fluorescence
@@ -198,7 +198,7 @@ peaks.df<-subset(peaks.df, !is.na(peaks.df$npeaks)) #Remove spectra that are not
 
 medians<-aggregate(npeaks ~ Genus, peaks.df, median)
 
-# postscript(file = "npeaks_neg_int_genus.eps", family = "Courier") #Create Adobe-readable postscript. Courier can be used without a problem by my Adobe
+# postscript(file = "npeaks_neg_genus.eps", family = "Courier") #Create Adobe-readable postscript. Courier can be used without a problem by my Adobe
 
 ## ggplot2 
 p<- ggplot(peaks.df, aes(Genus, log10(npeaks), fill = Genus)) # left axis fluorescence
@@ -336,7 +336,7 @@ peaks.df<-subset(peaks.df, !is.na(peaks.df$npeaks)) #Remove spectra that are not
 
 medians<-aggregate(npeaks ~ Species, peaks.df, median)
 
-# postscript(file = "npeaks_pos_species.eps", family = "Courier") #Create Adobe-readable postscript. Courier can be used without a problem by my Adobe
+# postscript(file = "npeaks_neg_int_species.eps", family = "Courier") #Create Adobe-readable postscript. Courier can be used without a problem by my Adobe
 
 ## ggplot2 
 p<- ggplot(peaks.df, aes(Species, log10(npeaks), fill = Species)) # left axis fluorescence
