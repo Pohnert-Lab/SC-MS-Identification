@@ -6,9 +6,9 @@ library(RCurl)
 
 ## Read spectra csv files
 
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S9_metadata_genus_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S9
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S10_metadata_genus_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S10
 
-peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S1_gen_HR_pos.RData?raw=true"))) # S1
+peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S5_md_gen_HR_pos.RData?raw=true"))) # S5
 
 
 brk <- seq(100,1000,by=10)
@@ -66,7 +66,7 @@ p <- p + theme_bw()
 
 plot(p)
 
-# ggsave(filename = paste0("CountsOfMZperGroup_pos_species.eps"),device = "eps", width = 210, height = 297, units = "mm")
+# ggsave(filename = paste0("CountsOfMZperGroup_gen_pos.eps"),device = "eps", width = 210, height = 297, units = "mm")
 
 
 
@@ -74,9 +74,9 @@ plot(p)
 # Genus negative ----------------------------------------------------------
 ## Read spectra csv files
 
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S10_metadata_genus_negative.csv",.opts=curlOptions(followlocation = TRUE))) # URL S10
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S11_metadata_genus_negative.csv",.opts=curlOptions(followlocation = TRUE))) # S11
 
-peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S2_gen_HR_neg.RData?raw=true"))) # S2
+peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S6_md_gen_HR_neg.RData?raw=true"))) # S6
 
 brk <- seq(100,1000,by=10)
 
@@ -133,7 +133,7 @@ p <- p + theme_bw()
 
 plot(p)
 
-# ggsave(filename = paste0("CountsOfMZperGroup_neg_species.eps"),device = "eps", width = 210, height = 297, units = "mm")
+# ggsave(filename = paste0("CountsOfMZperGroup_gen_neg.eps"),device = "eps", width = 210, height = 297, units = "mm")
 
 
 
@@ -142,9 +142,9 @@ plot(p)
 # Species positive --------------------------------------------------------
 ## Read spectra csv files
 
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S11_metadata_species_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S11
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S12_metadata_species_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S12
 
-peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S3_sp_HR_pos.RData?raw=true"))) # S3
+peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S1aS3_sp_HR_pos.RData?raw=true"))) # S1-S3
 
 
 brk <- seq(100,1000,by=10)
@@ -201,7 +201,7 @@ p <- p + theme_bw()
 
 p
 
-# ggsave(filename = paste0("CountsOfMZperGroup_pos_species.eps"),device = "eps", width = 210, height = 297, units = "mm")
+# ggsave(filename = paste0("CountsOfMZperGroup_sp_pos.eps"),device = "eps", width = 210, height = 297, units = "mm")
 
 
 
@@ -210,9 +210,9 @@ p
 # Species negative --------------------------------------------------------
 ## Read spectra csv files
 
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S12_metadata_species_negative.csv",.opts=curlOptions(followlocation = TRUE))) # S12
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S13_metadata_species_negative.csv",.opts=curlOptions(followlocation = TRUE))) # S12
 
-peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S4_sp_HR_neg.RData?raw=true"))) # S3
+peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S2aS4_sp_HR_neg.RData?raw=true"))) # S2aS4
 
 brk <- seq(100,1000,by=10)
 
@@ -268,5 +268,5 @@ p <- p + theme_bw()
 
 p
 
-# ggsave(filename = paste0("CountsOfMZperGroup_neg_species.eps"),device = "eps", width = 210, height = 297, units = "mm")
+# ggsave(filename = paste0("CountsOfMZperGroup_sp_neg.eps"),device = "eps", width = 210, height = 297, units = "mm")
 
