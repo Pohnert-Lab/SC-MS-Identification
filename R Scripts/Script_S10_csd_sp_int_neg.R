@@ -41,14 +41,13 @@ get.bootstrap.confidence.score.TB = function(search.database.result, database = 
 ######################
 
 ## File location to Microalgae_metadata.csv and corresponding spectra
-
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S12_metadata_species_negative.csv",.opts=curlOptions(followlocation = TRUE))) # S12
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S13_metadata_species_negative.csv",.opts=curlOptions(followlocation = TRUE))) # S13
 
 # FolderToCSVFiles<- "Folder to CSV files"
 # csvFiles<- list.files(FolderToCSVFiles, pattern = ".csv", recursive = T, full.names = T)
 
 ## Get spectra from GitHub as RData
-peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S4_sp_HR_neg.RData?raw=true"))) # S4
+peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S10_csd_sp_int_neg.RData?raw=true"))) # S10
 
 ## Normalize intensities of peak.list
 ref.peaklist <- lapply(peak.list, normalize.intensity)
@@ -67,7 +66,7 @@ for(i in 1:length(ref.peaklist)){
   intermediate.result<-  search.datebase.bootstrap(
     as.data.frame(ref.peaklist[[i]]),
     reference.spectra = ref.peaklist[-i], 
-    tolerance = 5,#5ppm
+    tolerance = 500, # 500 ppm
     bootstrap.times = 500,
     method = c('eu', 'ieu', 'cosine'))
   # List of the three scores: eu, ieu and cos for sample and the x bootstrap (based on bootstrap.times) results
@@ -122,6 +121,7 @@ for(i in 1:length(ref.peaklist)){
 
 top1result.df <- do.call(rbind, top1result.list)
 
+
 ## Reference species names
 
 reference<-unlist(sapply(as.character(top1result.df$ID), function(x) Algae$Species[which(Algae$ID == x)], simplify = FALSE),use.names = FALSE) 
@@ -145,11 +145,11 @@ species.cos <-unlist(sapply(as.character(top1result.df$sample.cos), function(x) 
 # Combine booleans/Species names with top1result.df
 top1result.df<- cbind(top1result.df, reference, species.cos, hits.cos, species.eu, hits.eu, species.ieu, hits.ieu)
 
-# write.csv(top1result.df, file = "top1result_highres_negative_species_BT500.csv")
+# write.csv(top1result.df, file = "top1result_csd_sp_integer_neg_BT500.csv")
 
 ## If only data analysis from top1result dataframe shall be done, active lower command line.
 
-# top1result.df<- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Identification_results/Dataset_S4.csv", .opts=curlOptions(followlocation = TRUE))) # URL S4
+# top1result.df<- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Identification_results/Datafile_S10.csv", .opts=curlOptions(followlocation = TRUE))) # S10
 
 ##################
 ## ROC analysis ##
@@ -161,16 +161,13 @@ roc.cos<-roc(top1result.df$hits.cos, as.numeric(top1result.df$sample.cos.val))
 roc.eu<-roc(top1result.df$hits.eu, as.numeric(top1result.df$sample.eu.val))
 roc.ieu<-roc(top1result.df$hits.ieu, as.numeric(top1result.df$sample.ieu.val))
 
-# postscript("ROC_Scores_species_negative.eps", width = 8, height = 8)
+# postscript("ROC_Scores_csd_sp_int_neg.eps", width = 8, height = 8)
 plotr<-plot(roc.cos, col = "blue", main = "ROC - Score (Cos/Eu/iEu)", asp = 1)
 plotr<-plot(roc.eu, add = TRUE, col = "red", asp = 1)
 plotr<-plot(roc.ieu, add = TRUE, col = "green",asp = 1)
 legend(x = 0.2, y = 0.2, c("Cos","Eu", "iEu"), col = c("blue", "red", "green"), pch = 19)
 # dev.off()
 
-ci.cos<-ci.auc(roc.cos)
-ci.eu<-ci.auc(roc.eu)
-ci.ieu<-ci.auc(roc.ieu)
 
 ## ROC for identification of single microalgal cells with Cos/Eu/iEu with bootstrapping assessment on species level
 roc.cos.bt<-roc(top1result.df$hits.cos, top1result.df$bt.species.cos.score)
@@ -178,26 +175,25 @@ roc.eu.bt <-roc(top1result.df$hits.eu, top1result.df$bt.species.eu.score)
 roc.ieu.bt<-roc(top1result.df$hits.ieu, top1result.df$bt.species.ieu.score)
 
 
-# postscript("ROC_BT_species_negative.eps", width = 8, height = 8)
+# postscript("ROC_BT_csd_sp_int_neg.eps", width = 8, height = 8)
 plotr.bt<-plot(roc.cos.bt, col = "blue", main = "ROC - BT confidence score (cos/eu/ieu)")
 plotr.bt<-plot(roc.eu.bt, add = TRUE, col = "red")
 plotr.bt<-plot(roc.ieu.bt, add = TRUE, col = "green")
 legend(x = 0.2, y = 0.2, c("Cos","Eu", "iEu"), col = c("blue", "red", "green"), pch = 19)
 # dev.off()
 
-ci.cos.bt<-ci.auc(roc.cos.bt)
-ci.eu.bt<-ci.auc(roc.eu.bt)
-ci.ieu.bt<-ci.auc(roc.ieu.bt)
 
 ############################################
 ## Score vs. sensitivity/error rate plots ##
 ############################################
+## These figures do not appear in the manuscript, but indicate the threshold values at the desired error rate. Those are comprised in table S2
+
 
 sc.seq<-seq(0,1,by = 0.01) # Scores to test
 
 ## Cos
 
-# postscript("SensErr_Cos_species_negative.eps", width = 8, height = 8)
+# postscript("SensErr_csd_Cos_sp_int_neg.eps", width = 8, height = 8)
 df.cos<-data.frame(sc = top1result.df$sample.cos.val, hits = top1result.df$hits.cos)
 
 sensitivities <- sapply(sc.seq,function(x) length(df.cos$hits[df.cos$hits == T & df.cos$sc>=x]) / length(df.cos$hits[df.cos$hits == T]))
@@ -224,7 +220,7 @@ sens.cos$sensitivity[which(sens.cos$scores == err.cos$scores[min(which(err.cos$e
 ## Score vs. Sensitivity/Errorrate plots
 #Eu
 
-# postscript("SensErr_Eu_species_negative.eps", width = 8, height = 8)
+# postscript("SensErr_csd_Eu_sp_int_neg.eps", width = 8, height = 8)
 df.eu<-data.frame(sc = top1result.df$sample.eu.val, hits = top1result.df$hits.eu)
 
 sensitivities <- sapply(sc.seq,function(x) length(df.eu$hits[df.eu$hits == T & df.eu$sc>=x]) / length(df.eu$hits[df.eu$hits == T]))
@@ -250,7 +246,7 @@ sens.eu$sensitivity[which(sens.eu$scores == err.eu$scores[min(which(err.eu$error
 ## Score vs. Sensitivity/Errorrate plots
 #iEu
 
-# postscript("SensErr_iEu_species_negative.eps", width = 8, height = 8)
+# postscript("SensErr_csd_iEu_sp_int_neg.eps", width = 8, height = 8)
 df.ieu<-data.frame(sc = top1result.df$sample.ieu.val, hits = top1result.df$hits.ieu)
 
 sensitivities <- sapply(sc.seq,function(x) length(df.ieu$hits[df.ieu$hits == T & df.ieu$sc>=x]) / length(df.ieu$hits[df.ieu$hits == T]))
@@ -274,13 +270,10 @@ sens.ieu$sensitivity[which(sens.ieu$scores == err.ieu$scores[min(which(err.ieu$e
 # dev.off()
 
 
-## Score
-###
-
 ## Score vs. Sensitivity/Errorrate plots 
 # Cos with bootstrap assessment
 
-# postscript("SensErr_BT_Cos_species_negative.eps", width = 8, height = 8)
+# postscript("SensErr_csd_BT_Cos_sp_int_neg.eps", width = 8, height = 8)
 df.cos.bt<-data.frame(sc = top1result.df$bt.species.cos.score, hits = top1result.df$hits.cos)
 
 sensitivities <- sapply(sc.seq,function(x) length(df.cos.bt$hits[df.cos.bt$hits == T & df.cos.bt$sc>=x]) / length(df.cos.bt$hits[df.cos.bt$hits == T]))
@@ -303,12 +296,10 @@ err.cos.bt$errorrates[min(which(err.cos.bt$errorrates<=0.05))] # Errorrate
 sens.cos.bt$sensitivity[which(sens.cos.bt$scores == err.cos.bt$scores[min(which(err.cos.bt$errorrates<=0.05))])] # Sensitivity 
 # dev.off()
 
-## Score
-
 ## Score vs. Sensitivity/Errorrate plots
 #Eu with bootstrap assessment
 
-# postscript("SensErr_BT_Eu_species_negative.eps", width = 8, height = 8)
+# postscript("SensErr_csd_BT_Eu_sp_int_neg.eps", width = 8, height = 8)
 df.eu.bt<-data.frame(sc = top1result.df$bt.species.eu.score, hits = top1result.df$hits.eu)
 
 sensitivities <- sapply(sc.seq,function(x) length(df.eu.bt$hits[df.eu.bt$hits == T & df.eu.bt$sc>=x]) / length(df.eu.bt$hits[df.eu.bt$hits == T]))
@@ -334,7 +325,7 @@ sens.eu.bt$sensitivity[which(sens.eu.bt$scores == err.eu.bt$scores[min(which(err
 ## Score vs. Sensitivity/Errorrate plots
 #iEu with bootstrap assessment
 
-# postscript("SensErr_BT_iEu_species_negative.eps", width = 8, height = 8)
+# postscript("SensErr_csd_BT_iEu_sp_int_neg.eps", width = 8, height = 8)
 df.ieu.bt<-data.frame(sc = top1result.df$bt.species.ieu.score, hits = top1result.df$hits.ieu)
 
 sensitivities <- sapply(sc.seq,function(x) length(df.ieu.bt$hits[df.ieu.bt$hits == T & df.ieu.bt$sc>=x]) / length(df.ieu.bt$hits[df.ieu.bt$hits == T]))
@@ -381,6 +372,7 @@ for (i in c("cos","eu","ieu")){
     else{x}
   }))
   
+  
   p<-ggplot(data = longtable, aes (Reference, Prediction, fill = value))
   
   p <- p +
@@ -393,11 +385,11 @@ for (i in c("cos","eu","ieu")){
           axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))+
     coord_fixed()+
     geom_text(aes(x = Prediction, y = Reference, label = frac))+
-    ggtitle(paste("Similarity measure:",i))
+    ggtitle(paste("Similarity measure:"),i)
   
   plot (p)
   
-   # ggsave(filename = paste0("confmat_negative_",i,".eps"),device = "eps", width = 20, height = 20, units = "cm")
+   # ggsave(filename = paste0("confmat_csd_sp_int_neg_",i,".eps"),device = "eps", width = 20, height = 20, units = "cm")
    
    confMatrices[[i]]<-confmat
 }

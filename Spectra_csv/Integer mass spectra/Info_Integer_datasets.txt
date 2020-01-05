@@ -1,0 +1,6 @@
+The following IDs/unit-resolution spectra of Chaetoceros cf. wighamii RCC3008 are missing, due to insufficient signals in the spectra after conversion from high resolution to low resolution:
+
+ID00252
+ID00253
+ID00254
+ID00255

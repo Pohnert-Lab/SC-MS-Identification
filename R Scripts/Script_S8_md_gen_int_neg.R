@@ -43,13 +43,13 @@ get.bootstrap.confidence.score.TB = function(search.database.result, database = 
 
 
 ## File location to Microalgae_metadata.csv and corresponding spectra
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S9_metadata_genus_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S9
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S11_metadata_genus_negative.csv",.opts=curlOptions(followlocation = TRUE))) # S11
 
 # FolderToCSVFiles<- "Folder to CSV files"
 # csvFiles<- list.files(FolderToCSVFiles, pattern = ".csv", recursive = T, full.names = T)
 
 ## Get spectra from GitHub as RData
-peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S5_gen_int_pos.RData?raw=true"))) # S5
+peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S8_md_gen_int_neg.RData?raw=true"))) # S8
 
 ## Normalize intensities of peak.list
 ref.peaklist <- lapply(peak.list, normalize.intensity)
@@ -144,11 +144,11 @@ genus.cos <-unlist(sapply(as.character(top1result.df$sample.cos), function(x) Al
 
 top1result.df<- cbind(top1result.df, reference, genus.cos, hits.cos, genus.eu,hits.eu, genus.ieu, hits.ieu)
 
-# write.csv(top1result.df, file = "top1result_genus_integer_positive_BT500.csv")
+# write.csv(top1result.df, file = "top1result_md_gen_integer_neg_BT500.csv")
 
 ## If only data analysis from top1result dataframe shall be done, active lower command line.
 
-# top1result.df<- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Identification_results/Dataset_S5.csv", .opts=curlOptions(followlocation = TRUE))) # URL S5
+# top1result.df<- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Identification_results/Datafile_S8.csv", .opts=curlOptions(followlocation = TRUE))) # S8
 
 ##################
 ## ROC analysis ##
@@ -161,35 +161,36 @@ roc.cos<-roc(top1result.df$hits.cos, as.numeric(top1result.df$sample.cos.val))
 roc.eu<-roc(top1result.df$hits.eu, as.numeric(top1result.df$sample.eu.val))
 roc.ieu<-roc(top1result.df$hits.ieu, as.numeric(top1result.df$sample.ieu.val))
 
-# postscript("ROC_Scores_gen_int_positive.eps", width = 8, height = 8)
+#postscript("ROC_Scores_md_gen_int_neg.eps", width = 8, height = 8)
 plotr<-plot(roc.cos, col = "blue", main = "ROC - Score (Cos/Eu/iEu)")
 plotr<-plot(roc.eu, add = TRUE, col = "red")
 plotr<-plot(roc.ieu, add = TRUE, col = "green")
 legend(x = 0.2, y = 0.2, c("Cos","Eu", "iEu"), col = c("blue", "red", "green"), pch = 19)
-# dev.off()
+#dev.off()
 
 ## ROC for identification of single microalgal cells with Cos/Eu/iEu with bootstrapping assessment on genus level
 roc.cos.bt<-roc(top1result.df$hits.cos, top1result.df$bt.genus.cos.score)
 roc.eu.bt <-roc(top1result.df$hits.eu, top1result.df$bt.genus.eu.score)
 roc.ieu.bt<-roc(top1result.df$hits.ieu, top1result.df$bt.genus.ieu.score)
 
-# postscript("ROC_BT_gen_int_positive.eps", width = 8, height = 8)
+#postscript("ROC_BT_md_gen_int_neg.eps", width = 8, height = 8)
 plotr.bt<-plot(roc.cos.bt, col = "blue", main = "ROC - BT confidence score (cos/eu/ieu)")
 plotr.bt<-plot(roc.eu.bt, add = TRUE, col = "red")
 plotr.bt<-plot(roc.ieu.bt, add = TRUE, col = "green")
 legend(x = 0.2, y = 0.2, c("Cos","Eu", "iEu"), col = c("blue", "red", "green"), pch = 19)
-# dev.off()
+#dev.off()
 
 ############################################
 ## Score vs. sensitivity/error rate plots ##
 ############################################
+## These figures do not appear in the manuscript, but indicate the threshold values at the desired error rate. Those are comprised in table S2
 
 
 sc.seq<-seq(0,1,by = 0.01) # Scores to test
 
 ## Cos
 
-# postscript("ErrSens_Cos_gen_int_positive.eps", width = 8, height = 8)
+#postscript("ErrSens_md_Cos_gen_int_neg.eps", width = 8, height = 8)
 df.cos<-data.frame(sc = top1result.df$sample.cos.val, hits = top1result.df$hits.cos)
 
 sensitivities <- sapply(sc.seq,function(x) length(df.cos$hits[df.cos$hits == T & df.cos$sc>=x]) / length(df.cos$hits[df.cos$hits == T]))
@@ -206,16 +207,16 @@ lines(err.cos, col = "red")
 
 # add vertical line with errorrate less equal 10%
 
-abline( v = err.cos$scores[min(which(err.cos$errorrates<=0.1))])
-err.cos$scores[min(which(err.cos$errorrates<=0.1))] # Threshold
-err.cos$errorrates[min(which(err.cos$errorrates<=0.1))] # Errorerate
-sens.cos$sensitivity[which(sens.cos$scores == err.cos$scores[min(which(err.cos$errorrates<=0.1))])] # Sensitivity 
-# dev.off()
+abline( v = err.cos$scores[min(which(err.cos$errorrates<=0.10))])
+err.cos$scores[min(which(err.cos$errorrates<=0.10))] # Threshold
+err.cos$errorrates[min(which(err.cos$errorrates<=0.10))] # Errorerate
+sens.cos$sensitivity[which(sens.cos$scores == err.cos$scores[min(which(err.cos$errorrates<=0.10))])] # Sensitivity 
+#dev.off()
 
 ## Score vs. Sensitivity/Errorrate plots
 #Eu
 
-# postscript("ErrSens_Eu_gen_int_positive.eps", width = 8, height = 8)
+#postscript("ErrSens_md_Eu_gen_int_neg.eps", width = 8, height = 8)
 df.eu<-data.frame(sc = top1result.df$sample.eu.val, hits = top1result.df$hits.eu)
 
 sensitivities <- sapply(sc.seq,function(x) length(df.eu$hits[df.eu$hits == T & df.eu$sc>=x]) / length(df.eu$hits[df.eu$hits == T]))
@@ -241,7 +242,7 @@ sens.eu$sensitivity[which(sens.eu$scores == err.eu$scores[min(which(err.eu$error
 ## Score vs. Sensitivity/Errorrate plots
 #iEu
 
-# postscript("ErrSens_iEu_gen_int_positive.eps", width = 8, height = 8)
+#postscript("ErrSens_md_iEu_gen_int_neg.eps", width = 8, height = 8)
 df.ieu<-data.frame(sc = top1result.df$sample.ieu.val, hits = top1result.df$hits.ieu)
 
 sensitivities <- sapply(sc.seq,function(x) length(df.ieu$hits[df.ieu$hits == T & df.ieu$sc>=x]) / length(df.ieu$hits[df.ieu$hits == T]))
@@ -262,12 +263,12 @@ abline( v = err.ieu$scores[min(which(err.ieu$errorrates<=0.1))])
 err.ieu$scores[min(which(err.ieu$errorrates<=0.1))] # Threshold
 err.ieu$errorrates[min(which(err.ieu$errorrates<=0.1))] # Errorerate
 sens.ieu$sensitivity[which(sens.ieu$scores == err.ieu$scores[min(which(err.ieu$errorrates<=0.1))])] # Sensitivity 
-# dev.off()
+#dev.off()
 
 ## Score vs. Sensitivity/Errorrate plots 
 # Cos with bootstrap assessment
 
-# postscript("ErrSens_BT_Cos_gen_int_positive.eps", width = 8, height = 8)
+#postscript("ErrSens_md_BT_Cos_gen_int_neg.eps", width = 8, height = 8)
 df.cos.bt<-data.frame(sc = top1result.df$bt.genus.cos.score, hits = top1result.df$hits.cos)
 
 sensitivities <- sapply(sc.seq,function(x) length(df.cos.bt$hits[df.cos.bt$hits == T & df.cos.bt$sc>=x]) / length(df.cos.bt$hits[df.cos.bt$hits == T]))
@@ -288,14 +289,14 @@ abline( v = err.cos.bt$scores[min(which(err.cos.bt$errorrates<=0.1))])
 err.cos.bt$scores[min(which(err.cos.bt$errorrates<=0.1))] # Threshold
 err.cos.bt$errorrates[min(which(err.cos.bt$errorrates<=0.1))] # Errorerate
 sens.cos.bt$sensitivity[which(sens.cos.bt$scores == err.cos.bt$scores[min(which(err.cos.bt$errorrates<=0.1))])] # Sensitivity 
-# dev.off()
+#dev.off()
 
 ## Score
 
 ## Score vs. Sensitivity/Errorrate plots
 #Eu with bootstrap assessment
 
-# postscript("ErrSens_BT_Eu_gen_int_positive.eps", width = 8, height = 8)
+#postscript("ErrSens_md_BT_Eu_gen_int_neg.eps", width = 8, height = 8)
 df.eu.bt<-data.frame(sc = top1result.df$bt.genus.eu.score, hits = top1result.df$hits.eu)
 
 sensitivities <- sapply(sc.seq,function(x) length(df.eu.bt$hits[df.eu.bt$hits == T & df.eu.bt$sc>=x]) / length(df.eu.bt$hits[df.eu.bt$hits == T]))
@@ -316,12 +317,12 @@ abline( v = err.eu.bt$scores[min(which(err.eu.bt$errorrates<=0.1))])
 err.eu.bt$scores[min(which(err.eu.bt$errorrates<=0.1))] # Threshold
 err.eu.bt$errorrates[min(which(err.eu.bt$errorrates<=0.1))] # Errorerate
 sens.eu.bt$sensitivity[which(sens.eu.bt$scores == err.eu.bt$scores[min(which(err.eu.bt$errorrates<=0.1))])] # Sensitivity 
-# dev.off()
+#dev.off()
 
 ## Score vs. Sensitivity/Errorrate plots
 #iEu with bootstrap assessment
 
-# postscript("ErrSens_BT_iEu_gen_int_positive.eps", width = 8, height = 8)
+#postscript("ErrSens_md_BT_iEu_gen_int_neg.eps", width = 8, height = 8)
 df.ieu.bt<-data.frame(sc = top1result.df$bt.genus.ieu.score, hits = top1result.df$hits.ieu)
 
 sensitivities <- sapply(sc.seq,function(x) length(df.ieu.bt$hits[df.ieu.bt$hits == T & df.ieu.bt$sc>=x]) / length(df.ieu.bt$hits[df.ieu.bt$hits == T]))
@@ -342,7 +343,7 @@ abline( v = err.ieu.bt$scores[min(which(err.ieu.bt$errorrates<=0.1))])
 err.ieu.bt$scores[min(which(err.ieu.bt$errorrates<=0.1))] # Threshold
 err.ieu.bt$errorrates[min(which(err.ieu.bt$errorrates<=0.1))] # Errorerate
 sens.ieu.bt$sensitivity[which(sens.ieu.bt$scores == err.ieu.bt$scores[min(which(err.ieu.bt$errorrates<=0.1))])] # Sensitivity 
-# dev.off()
+#dev.off()
 
 #######################################
 ## Confusion matrix / Accuracy plots ##
@@ -385,6 +386,6 @@ for (i in c("cos","eu","ieu")){
   
   plot (p)
   confMatrices[[i]]<-confmat
-  # ggsave(filename = paste0("confmat_positive_int_",i,".eps"),device = "eps", width = 20, height = 20, units = "cm")
+  #ggsave(filename = paste0("confmat_md_gen_int_neg_",i,".eps"),device = "eps", width = 20, height = 20, units = "cm")
 }
 
