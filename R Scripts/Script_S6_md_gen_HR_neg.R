@@ -41,7 +41,7 @@ get.bootstrap.confidence.score.TB = function(search.database.result, database = 
 ######################
 
 ## File location to Microalgae_metadata.csv and corresponding spectra
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S11_metadata_genus_negative.csv",.opts=curlOptions(followlocation = TRUE))) # URL S11
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S11_metadata_md_negative.csv",.opts=curlOptions(followlocation = TRUE))) # URL S11
 
 # FolderToCSVFiles<- "Folder to CSV files"
 # csvFiles<- list.files(FolderToCSVFiles, pattern = ".csv", recursive = T, full.names = T)
