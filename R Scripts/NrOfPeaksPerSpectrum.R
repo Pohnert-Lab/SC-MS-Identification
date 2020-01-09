@@ -4,7 +4,7 @@ set.seed(123)
 
 # Genus HR positive -------------------------------------------------------
 # Read spectra csv files
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S10_metadata_md_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S10
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S11_metadata_md_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S11
 
 peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S5_md_gen_HR_pos.RData?raw=true"))) # S5
 
@@ -48,7 +48,7 @@ plot(p)
 # Genus integer positive --------------------------------------------------
 
 # Read spectra csv files
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S10_metadata_md_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S10
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S11_metadata_md_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S11
 
 peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S7_md_gen_int_pos.RData?raw=true"))) # S7
 
@@ -93,7 +93,7 @@ plot(p)
 
 ## Read spectra csv files
 
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S12_metadata_csd_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S12
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S13_metadata_csd_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S13
 
 peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S3_csd_sp_HR_pos.RData?raw=true"))) # S3
 
@@ -139,7 +139,7 @@ plot(p)
 
 ## Read spectra csv files
 
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S12_metadata_csd_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S12
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S13_metadata_csd_positive.csv",.opts=curlOptions(followlocation = TRUE))) # S13
 
 peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S9_csd_sp_int_pos.RData?raw=true"))) # S9
 
@@ -182,7 +182,7 @@ plot(p)
 # Genus HR negative -------------------------------------------------------
 
 # Read spectra csv files
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S11_metadata_md_negative.csv",.opts=curlOptions(followlocation = TRUE))) # URL S11
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S12_metadata_md_negative.csv",.opts=curlOptions(followlocation = TRUE))) # URL S12
 
 peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S6_md_gen_HR_neg.RData?raw=true"))) # S6
 
@@ -225,7 +225,7 @@ plot(p)
 # Genus integer negative --------------------------------------------------
 
 # Read spectra csv files
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S11_metadata_md_negative.csv",.opts=curlOptions(followlocation = TRUE))) # URL S11
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S12_metadata_md_negative.csv",.opts=curlOptions(followlocation = TRUE))) # URL S12
 
 peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S8_md_gen_int_neg.RData?raw=true"))) # S8
 
@@ -272,7 +272,7 @@ plot(p)
 
 ## Read spectra csv files
 
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S13_metadata_csd_negative.csv",.opts=curlOptions(followlocation = TRUE))) # S13
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S14_metadata_csd_negative.csv",.opts=curlOptions(followlocation = TRUE))) # S14
 
 peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S2aS4_csd_sp_HR_neg.RData?raw=true"))) # S2aS4
 
@@ -320,7 +320,7 @@ plot(p)
 
 ## Read spectra csv files
 
-Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S12_metadata_csd_negative.csv",.opts=curlOptions(followlocation = TRUE))) # S12
+Algae <- read.csv(text=getURL("https://raw.github.com/Pohnert-Lab/SC-MS-Identification/master/Metadata/S13_metadata_csd_negative.csv",.opts=curlOptions(followlocation = TRUE))) # S13
 
 peak.list <- readRDS(gzcon(url("https://github.com/Pohnert-Lab/SC-MS-Identification/blob/master/RData_spectra/Spectra_S8_sp_int_neg.RData?raw=true"))) # S8
 
