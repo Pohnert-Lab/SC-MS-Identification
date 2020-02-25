@@ -2,8 +2,8 @@
  Spectral pattern matching with single-cell HRMS spectra of marine microalgae
 
 ## Publication:
-Baumeister, T.U.H., Vallet, M., Kaftan, F., Guillou, L., Svatoš, A., Pohnert, G.
-Identification to species level of live single microalgal cells from plankton samples with matrix-free laser/desorption ionization mass spectrometry. 
+Baumeister, T.U.H., Vallet, M., Kaftan, F., Guillou, L., Svatoš, A., Pohnert, G.<br/>
+Identification to species level of live single microalgal cells from plankton samples with matrix-free laser/desorption ionization mass spectrometry.<br/>
 *Metabolomics*, *16*, 28 (2020). DOI: [https://doi.org/10.1007/s11306-020-1646-7](https://doi.org/10.1007/s11306-020-1646-7)
 
 # How to use the scripts
