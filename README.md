@@ -16,3 +16,16 @@ gen - Genus level
 sp  - Species level
 HR  - High resolution
 int - Integer/Unit resolution 
+
+
+# Algal isolates used in the SC-MS identification study and that were deposited to the RCC collection.
+
+|**Identity**	|**Isolate code**	|**RCC number** |
+|----------|:-------------:|------:|
+|*Ceratium* sp. |	GP9-6 |RCC6813 |
+|*Chaetoceros* sp.	|GP4-4 |RCC6818 |
+|*Chaetoceros* sp.	|R-R3 |RCC6819 |
+|*Coscinodiscus* sp.|Norway2017_M2 |RCC6807|
+|*Ditylum* sp.	|R-R1 |	RCC6821 |
+|*Pleurosigma* sp.  |R-PS1 |RCC6814 |
+|*Rhizosolenia* sp. |R-R257 |RCC6817 |
