@@ -22,10 +22,10 @@ HR  - High resolution
 int - Integer/Unit resolution 
 
 
-# Algal isolates used in the SC-MS identification study and that were deposited to the RCC collection.
+# Algal isolates used in the SC-MS identification study and that were *deposited* to the RCC collection.
 
 |**Identity**	|**Isolate code**	|**RCC number** |
-|----------|:-------------:|------:|
+|:----------:|:-------------:|:------:|
 |*Ceratium* sp. |	GP9-6 |RCC6813 |
 |*Chaetoceros* sp.	|GP4-4 |RCC6818 |
 |*Chaetoceros* sp.	|R-R3 |RCC6819 |
@@ -33,3 +33,14 @@ int - Integer/Unit resolution
 |*Ditylum* sp.	|R-R1 |	RCC6821 |
 |*Pleurosigma* sp.  |R-PS1 |RCC6814 |
 |*Rhizosolenia* sp. |R-R257 |RCC6817 |
+
+# Algal isolates used in the SC-MS identification study and that were *obtained* from the RCC collection.
+
+|**Identity**  |**RCC number**|
+|:------------:|:------------:|
+|*Chaetoceros* sp. |RCC3008 |
+|*Chaetoceros diadema*| RCC1717 |
+|*Guinardia flaccida* | RCC5791 |
+|*Lauderia annulata* | RCC2561 |
+|*Thalassiosira* sp. | RCC2562 |
+|*Thalassiosira punctigera* |RCC 4667 |
